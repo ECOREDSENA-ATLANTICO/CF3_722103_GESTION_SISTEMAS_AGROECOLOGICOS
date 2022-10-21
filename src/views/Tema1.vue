@@ -209,7 +209,7 @@
     p.mb-5 Debido a la evolución, como se puede detallar en la siguiente figura y a los diferentes enfoques como el sistémico, holístico, integral, multidimensional y multifuncional, ha generado que la agroecología se comprenda como una ciencia práctica y como un movimiento social, que integra aspectos productivos, ambientales, socioculturales, políticos y epistemológicos:
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-5
       h5 Figura 1.
-      span <em>Evolución de la agroecología</em>
+      span Evolución de la agroecología
     .bg4
       .row.justify-content-center.mb-5
         .col-lg-12
@@ -227,7 +227,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Enlace web
+                  h3.mb-1 Enlace <em>web</em>
                   p.text-small Los principales instrumentos normativos y de política relacionados con la agroecología en Colombia, se pueden observar en el documento de la FAO, página 39 Tabla 3 Principales instrumentos normativos y de política. 
                 .col-sm-auto
                   a.boton.color-acento-botones.me-3.mg4(href="http://sembrandocapacidades.fao.org.co/wp-content/uploads/2022/01/7_Propuesta-de-lineamientos-de-politica-publica-en-agroecologia-para-Colombia-_compressed.pdf" target="_blank").mb-0                    
@@ -265,8 +265,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Enlace web
-                  p.text-small Para ampliar la información relacionada con el marco estratégico de los lineamientos de política pública en agroecología en Colombia y los lineamentos de política pública en agroecología para Colombia diríjase al siguiente enlace web: 
+                  h3.mb-1 Enlace <em>web</em>
+                  p.text-small Para ampliar la información relacionada con el marco estratégico de los lineamientos de política pública en agroecología en Colombia y los lineamentos de política pública en agroecología para Colombia diríjase al siguiente enlace <em>web</em>: 
                 .col-sm-auto
                   a.boton.color-acento-botones.me-3.mg4(href="http://sembrandocapacidades.fao.org.co/wp-content/uploads/2022/01/7_Propuesta-de-lineamientos-de-politica-publica-en-agroecologia-para-Colombia-_compressed.pdf" target="_blank").mb-0                    
                     span Enlace

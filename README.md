@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[ https://ecored-sena.github.io/CF3_722103_GESTION_SISTEMAS_AGROECOLOGICOS/]( https://ecored-sena.github.io/CF3_722103_GESTION_SISTEMAS_AGROECOLOGICOS/)
 
 #
 
