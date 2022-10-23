@@ -36,111 +36,111 @@
           p.mb-0 #[b Tabla 1]. Tipos de modelos agrícolas establecidos en ALC 
         .tabla-a.color-acento-contenido.mb-4
           table
-            
+            caption Nota. Le Coq, J. Patrouilleau, M. Sabourin, E. y Niederle, P. (2020). Políticas públicas que promueven la agroecología y producción orgánica en América Latina.
             thead
               tr(style="background-color: #FFA686") 
                 th Criterios distintivos
-                th Agroecología latinoamericana
+                td Agroecología latinoamericana
                   
-                th Agricultura orgánica
+                td Agricultura orgánica
                   
-                th Agricultura sostenible
+                td Agricultura sostenible
                   
-                th Agricultura convencional
+                td Agricultura convencional
             tbody
               tr(style="background-color: #F6F6F6") 
                 th Tipo de finca agrícola
-                th 
+                td
                   p Fincas familiares (llamadas familiares,campesinas, indígenas)
-                th 
+                td
                   P Todos los tipos
-                th 
+                td
                   P Todos los tipos
-                th 
+                td
                   P Todos los tipos
               tr
                 th Integración al mercado
-                th 
-                  p Limitada
-                th 
-                  P Variable
-                th 
-                  P Máxima
-                th 
-                  P Máxima
+                td 
+                    p Limitada
+                td 
+                    P Variable
+                td 
+                    P Máxima
+                td 
+                    P Máxima
               tr(style="background-color: #F6F6F6") 
                 th Sistema de alimentos objetivo (1)
-                th 
+                td 
                   p Circuitos cortos
-                th 
+                td 
                   P Circuitos largos y exportación
-                th 
+                td 
                   P Circuitos largos y exportación
-                th 
+                td 
                   P Circuitos largos y exportación
               tr
                 th Etiquetado de productos alimenticios agrícolas
-                th 
+                td 
                   p Posible, más o menos formalizada
-                th 
+                td 
                   P Sí, certificación por terceros
-                th 
+                td 
                   P No
-                th 
+                td 
                   P No
               tr(style="background-color: #F6F6F6") 
                 th Escala de cambio de prácticas agrícolas
-                th 
+                td 
                   p Parcela, finca, territorio
-                th 
+                td 
                   P Parcela y finca
-                th 
+                td 
                   P Parcela
-                th 
+                td 
                   P Parcela
               tr
                 th Insumos (abonos, productos fitosanitarios…)
-                th 
+                td 
                   p Pocos insumos y procedentes de procesos biológicos
-                th 
+                td 
                   P Procedentes de procesos biológicos certificados
-                th 
+                td 
                   P Uso racional de insumos sintéticos
-                th 
+                td 
                   P Uso masivo de insumos sintéticos
               tr(style="background-color: #F6F6F6") 
                 th Cultivo de variedades genéticamente modificadas
-                th 
+                td 
                   p No
-                th 
+                td 
                   P No
-                th 
+                td 
                   P Sí
-                th 
+                td 
                   P Sí
               tr
                 th Diversificación de la producción en la finca agrícola
-                th 
+                td 
                   p Sí
-                th 
+                td 
                   P Variable
-                th 
+                td 
                   P No buscada
-                th 
+                td 
                   P No buscada
               tr(style="background-color: #F6F6F6") 
                 th Factores principales que contribuyen a la promoción del modelo
-                th 
+                td 
                   p <b>a</b> Políticas públicas impulsadas por movimientos sociales.
                   p <b>b</b> Demanda consumida a través de circuitos cortos, o programas de compra por audiencias preferenciales.
-                th 
+                td 
                   p <b>a</b> Demanda del consumidor de productos orgánicos certificados.
                   p <b>b</b> Políticas públicas.
-                th 
+                td 
                   P Políticas públicas de incentivos para adoptar prácticas agrícolas específicas.
-                th 
+                td 
                   P Políticas agrícolas y comerciales (acuerdos de libre comercio).
-          figcaption Nota. Le Coq, J. Patrouilleau, M. Sabourin, E. y Niederle, P. (2020). Políticas públicas que promueven la agroecología y producción orgánica en América Latina.
+          
     p.mb-5 La agroecología desde los años 70 inicia con un proceso de fortalecimiento y expansión, el cual se describe en la siguiente infografía: 
     .row.justify-content-evenly.align-items-lg-stretch.my-4.mb-5.m_tar-boton
       .col-sm-6.col-lg-2.mb-5.mb-lg-0

@@ -93,6 +93,48 @@
 
 .bg6
   background-color: #E8E8E8
+
+.bg7
+  background-image: url("../assets/curso/tema2/img28.svg")
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  @media (max-width: $bp-max-md) 
+    background-image: none
+    background-color: #EFF5D6   
+
+.bg8
+  background-color: #FFD3C3
+  border-radius: 10px
+  margin-left: 1px
+  margin-right: 1px
+
+.bg9
+  background-color: #EFF5D6
+  border-radius: 10px
+  margin-left: 1px
+  margin-right: 1px
+
+.bg10
+  background-image: url("../assets/curso/tema4/img9.svg")
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  @media (max-width: $bp-max-md) 
+    background-image: none
+    background-color: #EFF5D6   
+
+.tarjeta.color-acento-contenido 
+  background-color: #DEEBAD
+  border-radius: 10px
+
+.tarjeta.color-acento-contenido1 
+  background-color: #DEEBAD
+  border-radius: 10px
+  border: 3px solid #204623
+
+.tarjeta.color-acento-contenido2 
+  background-color: #FFD3C3
+  border-radius: 10px
+
 .color1
   background-color: #FFE9E1!important
 
@@ -101,6 +143,9 @@
 
 .bg_color3
   background: #FFD3C3  
+
+.bg-c1
+  background-color: #FFA686
 
 .tarjeta-foto-hover
   position: relative
@@ -147,7 +192,17 @@
   transition: all .3s ease-in-out
   &:hover
     transform: scale(1.1)
-    
+.bgtb
+  .tarjeta--boton 
+    border-radius: 0
+    background-color: #ADCE32
+    border-start-start-radius: 15px
+    border-start-end-radius: 15px
+    height: 100%
+    @media (max-width: $bp-max-md) 
+      width: 100% 
+  .tarjeta--boton.color-secundario:hover
+    background-color: #FFA686
 
 .tarjeta.color-primario 
   background: linear-gradient(180deg, rgba(173,206,50,1) 0%, rgba(11,72,30,1) 100%)
@@ -181,6 +236,16 @@
 .tarjeta-avatar > img 
   top: 24px
 
+.tarjeta-avatar .tarjeta 
+  display: inherit
+    
+
+.bgsly2
+  background-color: #FFFFFF
+  border-radius: 50px
+  width: 50%
+  margin-left: 24%
+
 .bgsly3
   background-color: #FBEAE2
   border-radius: 50px
@@ -192,3 +257,24 @@
 
 .imgtop1
   margin-top: 29px
+
+.imgtop3
+  margin-top: -65px
+  margin-left: 175px
+
+.bord_rad-tarboton
+  .tarjeta--boton.color-secundario:hover
+  border-radius: 10px
+  height: 102px
+  @media screen and ( max-width: 428px)
+    width: 345px
+  @media (min-width: $bp-min-sm) and (max-width: $bp-max-md) 
+    width: 285px 
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    width: 207px
+
+.lista-ol--cuadro__vineta 
+  background-color: #ADCE32
+
+.bloque-texto-g__texto * 
+  display: inline-flex
