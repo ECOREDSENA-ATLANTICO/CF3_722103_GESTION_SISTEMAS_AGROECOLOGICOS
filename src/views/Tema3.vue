@@ -26,7 +26,7 @@
     .row.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 1]. Tipos de modelos agrícolas establecidos en ALC 
+          p.mb-0 #[b Tabla 3]. Atributos que permiten definir los tipos de usos del suelo
         .tabla-a.color-acento-contenido.mb-4
           table
             caption Nota. FAO. (1997). Zonificación agro-ecológica. Guía general. 

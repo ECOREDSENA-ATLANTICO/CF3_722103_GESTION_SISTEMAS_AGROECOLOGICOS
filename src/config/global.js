@@ -142,32 +142,113 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Cartografía base en agroecología',
+      referencia:
+        'Cleves J. Toro, J., Martínez, L., y León, S. (2017). La Estructura Agroecológica Principal (EAP): novedosa herramienta para la planeación del uso de la tierra en agroecosistemas. Revista Colombiana de Ciencias Hortícolas, 11(2), 441-449. ',
+      tipo: 'Artículo',
+      link:
+        'https://revistas.uptc.edu.co/index.php/ciencias_horticolas/article/view/7350/pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Cartografía base en agroecología',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. [Ecosistema de Recursos Educativos Digitales SENA]. (2022, 26 de marzo). Fundamentos de SIG aplicados en Sistemas Forestales y/o Agroecológicos: introducción.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=e_5JAbz_nIo&list=PLkc5n6npRWkh8vwezpUX4-VLODskH_M67&index=7&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+    },
+    {
+      tema: 'Técnicas de medición',
+      referencia:
+        'TvAgro. [TvAgro]. (2020, 10 de septiembre). Importancia de la Topografía en las Labores del Campo - TvAgro por Juan Gonzalo Ángel Restrepo.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=ucVTKKXX8VI',
+    },
+    {
+      tema: 'Técnicas de medición',
+      referencia:
+        'CEPAL (2015). Gestión Integral de Riesgos y Seguros Agropecuarios en Centroamérica y la República Dominicana: Situación actual y líneas de acción potenciales.',
+      tipo: 'Artículo',
+      link:
+        'https://repositorio.cepal.org/bitstream/handle/11362/27170/1/M20130038_es.pdf',
+    },
+    {
+      tema: 'Análisis de riesgos en agroecología',
+      referencia:
+        'Unidad de Planificación Rural Agropecuaria - UPRA. (2021). Podcast: la cultura de la gestión de riesgos y el aseguramiento. Upra Planificamos el campo',
+      tipo: 'Podcasts',
+      link: 'https://open.spotify.com/episode/3U5Xld67yzy10Idx0O9xpU',
+    },
+    {
+      tema: 'Análisis de riesgos en agroecología',
+      referencia:
+        'Platform for Agricultural Risk Management - PARM. (2019). Agricultural Risk Management: a new way of thinking - PARM. ',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=o80PfIGYVvI&t=5s&ab_channel=PlatformforAgriculturalRiskManagementPARM',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Cartografía',
+      significado:
+        'Es la ciencia encargada de representar la tierra sobre un plano o mapa, que trata de las normas y procedimientos dirigidos al estudio y confección de los mapas, cartas y planos, siendo la más científica de las artes y sin dudas la más artística de las ciencias.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Gratículas',
+      significado:
+        'Malla regular con el sistema de coordenadas que se superpone sobre un mapa',
+    },
+    {
+      termino: 'Sistema agroalimentario',
+      significado:
+        'Es la suma de los diversos elementos, actividades y actores que, mediante sus interrelaciones, hacen posible la producción, transformación, distribución y consumo de alimentos.',
+    },
+    {
+      termino: 'Sistemas de posicionamiento global (GPS)',
+      significado:
+        'Es la herramienta a través de la cual establece la ubicación, ayuda a tomar decisiones correctas para la determinación de coordenadas, medición de áreas y distancias. ',
+    },
+    {
+      termino: 'Sistema de producción',
+      significado:
+        'Conjunto particular de actividades (sistema de manejo), desarrolladas para producir una serie definida de productos o beneficios.',
+    },
+    {
+      termino: 'Zonificación agroecológica',
+      significado:
+        'Se refiere a la división de la superficie de tierra en unidades más pequeñas, que tienen características similares relacionadas con la aptitud de tierras, la producción potencial y el impacto ambiental.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Le Coq, J., Patrouilleau, M. M., Sabourin, E. & Niederle, P. A. (2018). Políticas públicas que promueven la agroecología y producción orgánica en América Latina. Porto Alegre, Brasil: III Conferência Internacional de Agricultura e Alimentação em uma Sociedade Urbanizada. ',
+      link:
+        'https://hal.archives-ouvertes.fr/hal-02794344/document#:~:text=La%20agroecolog%C3%ADa%20pol%C3%ADtica%20sostenida%20por,soberan%C3%ADa%20alimentaria%20a%20nivel%20territorial',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Agricultura y la Alimentación - FAO. (1997). Zonificación agro-ecológica. Capítulo 4. Herramientas informáticas y sistemas de información geográfica. Roma.',
+      link:
+        'https://www.fao.org/3/w2962s/w2962s0j.htm#cap%C3%ADtulo%204.%20herramientas%20inform%C3%A1ticas%20y%20sistemas%20de%20informaci&oacu',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Agricultura y la Alimentación - FAO. (2013). Guía técnica Medidas para la gestión del riesgo agropecuario del Beni. (R. M. Noda Videa, & E. H. Tejada Vélez, Edits.) Bolivia: Organización de las Naciones Unidas para la Agricultura y la Alimentación - FAO.',
+      link: 'https://www.fao.org/3/as965s/as965s.pdf',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Alimentación y Agricultura - FAO. (2021). Experiencias de transición Agroecológica en Colombia. Sembrando Capacidades Cooperación Brasil - Colombia - FAO. Colombia.',
+      link:
+        'http://sembrandocapacidades.fao.org.co/wp-content/uploads/2022/01/11_Experiencias-de-transicion-agroecologica-en-Colombia_compressed.pdf',
+    },
+    {
+      referencia:
+        'Resolución 464 de 2017 [Ministerio de Agricultura y Desarrollo rural]. Por medio de la cual se adoptan los Lineamientos Estratégicos de Política Pública para la Agricultura Campesina, Familiar y Comunitaria.',
+      link:
+        'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf',
     },
   ],
   creditos: {
@@ -181,9 +262,30 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable equipo desarrollo curricular',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ingrid Natalia Lozano Muñoz',
+        cargo: 'Experta temática',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
+      },
+      {
+        nombre: 'Paola Alexandra Moya Peralta',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor metodológico ',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Corrector de estilo',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -194,19 +296,60 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Natalia Maldonado Delgado',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Erika Viviana Sandoval Roja',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Sandra Milena Triana Pinto',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -219,16 +362,6 @@ export default {
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
