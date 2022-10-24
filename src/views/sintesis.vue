@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p A continuación, se presenta un mapa conceptual que sintetiza el componente formativo: 
+    p.mb-5 A continuación, se presenta un mapa conceptual que sintetiza el componente formativo: 
     
     .row.justify-content-center
       .col-lg-12.mb-5
