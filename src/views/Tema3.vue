@@ -198,7 +198,7 @@
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img11.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-2
+          .col-9.align-items-center.p-4
             div
               p.mb-0 Tenencia de la tierra.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
@@ -206,7 +206,7 @@
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img12.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-2
+          .col-9.align-items-center.p-3
             div
               p.mb-0 Tamaño de las explotaciones. 
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
@@ -214,7 +214,7 @@
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img13.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-2
+          .col-9.align-items-center.p-3
             div
               p.mb-0 Balance de uso de mano de obra.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
@@ -254,7 +254,7 @@
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img19.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-2
+          .col-9.align-items-center.p-3
             div
               p.mb-0 Destino y tipo de producción.
     p Conforme a estos parámetros se pueden definir el tipo de productor, encontrando:
