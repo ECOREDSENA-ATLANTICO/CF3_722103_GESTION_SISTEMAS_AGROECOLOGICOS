@@ -142,7 +142,12 @@
                   P Políticas agrícolas y comerciales (acuerdos de libre comercio).
           
     p.mb-5 La agroecología desde los años 70 inicia con un proceso de fortalecimiento y expansión, el cual se describe en la siguiente infografía: 
+    .row 
+      .col-lg-12
+        h4 Características del proceso de fortalecimiento de la agroecología.
+
     .row.justify-content-evenly.align-items-lg-stretch.my-4.mb-5.m_tar-boton
+      
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img6.svg')
@@ -233,6 +238,7 @@
                   a.boton.color-acento-botones.me-3.mg4(href="http://sembrandocapacidades.fao.org.co/wp-content/uploads/2022/01/7_Propuesta-de-lineamientos-de-politica-publica-en-agroecologia-para-Colombia-_compressed.pdf" target="_blank").mb-0                    
                     span Enlace
                     i.fas.fa-link
+    p.mb-3 Por otro lado, el marco estratégico de los lineamientos de política pública en agroecología en Colombia contempla los siguientes enfoques:
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-5
       h5 Figura 2.
       span Enfoques de los lineamientos de política pública en agroecología en Colombia

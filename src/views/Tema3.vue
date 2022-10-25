@@ -113,9 +113,16 @@
                   P Moderado
                 td(colspan="3")  
                   p Elevado
-    
+    .row.mb-5
+      .col-auto.py-2.px-3.bg-c1
+        p.mb-0 #[b.text-black Modelos de producción]
+    .row.align-items-center.mb-3
+      .col-lg-12(data-aos="fade-right")
+        p.mb-4 Los sistemas agropecuarios en Colombia y ALC juegan un papel indispensable para la producción de servicios ecosistémicos y alimentos que no solo satisfacen las necesidades alimentarias de la región sino del mundo en general, estos sistemas pueden dividirse por categorías, las cuales pueden ser:
+        h4.text-center Sistemas de producción agropecuaria:
     .row.justify-content-evenly.align-items-lg-stretch.mb-5
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
+        
         .tarjeta--boton.color-secundario.bgtb.p-2
           .row.justify-content-center.mb-3
             .col-12
@@ -193,23 +200,23 @@
               img(src='@/assets/curso/tema3/img11.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-2
             div
-              p.mb-0 Ingresos previstos a corto y largo plazo. 
+              p.mb-0 Tenencia de la tierra.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img12.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-4
+          .col-9.align-items-center.p-2
             div
-              p.mb-0 Origen de los ingresos. 
+              p.mb-0 Tamaño de las explotaciones. 
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img13.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-4
+          .col-9.align-items-center.p-2
             div
-              p.mb-0 Previsión de beneficios
+              p.mb-0 Balance de uso de mano de obra.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
           .col-3.px-0.align-items-center
@@ -217,23 +224,23 @@
               img(src='@/assets/curso/tema3/img14.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-3
             div
-              p.mb-0 Previsión de flujos de tesorería.  
+              p.mb-0 Tipo de explotación.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img16.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-3
+          .col-9.align-items-center.p-4
             div
-              p.mb-0 Financiación necesaria. 
+              p.mb-0 Crédito.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img17.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-2
+          .col-9.align-items-center.p-4
             div
-              p.mb-0 Amortización de la financiación.   
+              p.mb-0 Nivel tecnológico.  
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
           .col-3.px-0.align-items-center
@@ -247,9 +254,9 @@
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img19.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-4
+          .col-9.align-items-center.p-2
             div
-              p.mb-0 Planes de expansión. 
+              p.mb-0 Destino y tipo de producción.
     p Conforme a estos parámetros se pueden definir el tipo de productor, encontrando:
     .row.justify-content-center.mb-5
       .col-lg-3.col-lg.mb-5.mb-lg-0

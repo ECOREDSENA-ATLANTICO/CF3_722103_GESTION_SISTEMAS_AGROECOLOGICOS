@@ -12,7 +12,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema2/img1.png', alt='') 
       .col-lg-8(data-aos="fade-right")
         .cajon.color-primario.p-4.ps-5.color2.mb-3
-          p.m-0 <b>La cartografía es una de las herramientas que permite realizar la caracterización del territorio y de la unidad productiva</b>, con la finalidad de generar un modelo de evaluación cuantitativa y cualitativa de la aptitud del territorio por medio de una superposición de variables, que son analizadas a través de softwares abiertos o licenciados que aplican sistemas de información geográfica (SIG).
+          p.m-0 <b>La cartografía es una de las herramientas que permite realizar la caracterización del territorio y de la unidad productiva</b>, con la finalidad de generar un modelo de evaluación cuantitativa y cualitativa de la aptitud del territorio por medio de una superposición de variables, que son analizadas a través de <em>softwares</em> abiertos o licenciados que aplican sistemas de información geográfica (SIG).
       
         p Los SIG son herramientas que permiten la modelación, administración, visualización de las características del territorio y que generan salidas gráficas que son necesarias para poder planificar y diseñar el territorio, en este caso el sistema agroalimentario. El SIG es el instrumento fundamental para caracterizar el territorio y tomar decisiones en torno a su gestión.
     p.mb-5 <b>Para la generación del modelo de aptitud del territorio, la planeación y diseño agroecológico del sistema agroalimentario, es necesario realizar:</b>          
@@ -49,6 +49,10 @@
                 img(src='@/assets/curso/tema2/img5.png', alt='Texto que describa la imagen')
           p.px-3 Revisar el Sistema para la Planificación Rural Agropecuaria (SIPRA) de la Unidad de Planificación Rural Agropecuaria (UPRA) que es la entidad en Colombia que se encarga de gestionar la información agropecuaria en el país y la planificación en la gestión del territorio para usos agropecuarios.
     p.mb-5 Esta revisión bibliográfica, es importante porque permite la identificación de las características óptimas y no óptimas para el sistema agroalimentario a planificar y diseñar, siendo esta la base para la selección de las temáticas a incluir en el modelo de aptitud del terreno que representen las características de este, temperatura, precipitación, inclinación del territorio, características del suelo más favorables para el sistema agroalimentario. Dentro de las temáticas que pueden ser usadas para este análisis del territorio se pueden ver en la siguiente tabla: 
+    .row
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 #[b Tabla 2]. Temáticas técnicas y legales para la generación de un modelo de aptitud del territorio
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-9.col-lg-4.mb-3.mb-lg-0.bgt01
         .row

@@ -278,6 +278,12 @@
               li
                 <i class="fas fa-cog" style="color:#FFA686"></i>
                 p.m-0 Siembra de parcelas semilleras con las alcaldías
+              li
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                p.m-0 Conservación de ramas de yuca
+              li
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                p.m-0 Conservación de yuca fresca
           .col-lg-5.mb-5
             figure
               img.img-t.m-auto(src='@/assets/curso/tema4/img19.png', alt='')
