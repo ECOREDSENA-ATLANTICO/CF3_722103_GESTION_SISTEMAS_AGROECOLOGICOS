@@ -248,7 +248,7 @@
               img(src='@/assets/curso/tema3/img18.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-4
             div
-              p.mb-0 Inversiones requeridas.   
+              p.mb-0 Asistencia técnica   
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
           .col-3.px-0.align-items-center
