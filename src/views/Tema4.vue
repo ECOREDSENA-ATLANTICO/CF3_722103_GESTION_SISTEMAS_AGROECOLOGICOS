@@ -154,25 +154,24 @@
           table
             caption Nota. CEPAL (2015). Gestión Integral de Riesgos y Seguros Agropecuarios en Centroamérica y la República Dominicana. 
             thead
-              tr(style="background-color: #FFA686") 
-                th 
-                td 
-                th Mecanismos encógenos a las unidades productivas 
-                th Mecanismos exógenos
-                td 
-                  p De mercado
-                  p Públicos   
+              tr.pst(style="background-color: #FFA686") 
+                th(rowspan='2')(style="width:15%")
+                td(rowspan='2')(style="width:15%")
+                th(rowspan='2')(style="width:25%") Mecanismos encógenos a las unidades productivas 
+                th(colspan='2')(style="width:45%") Mecanismos exógenos  
+              tr.pst(style="background-color: #FFA686")
+                th De mercado
+                th Públicos  
             tbody
               tr(style="background-color: #F6F6F6") 
                 th(style="background-color: #FFD3C3")  
-                  p <b>Estrategias preventivas</b>
-                  
-                  p <b>Estrategias correctivas</b>
+                  p.pst_1 <b>Estrategias preventivas</b>
+                  p.pst_1 <b>Estrategias correctivas</b>
                 th(style="background-color: #FFE9E1")   
-                  p <b>Unidad productiva</b>
-                  p <b>Colectivo</b>
-                  p <b>Lidiando con los efectos</b> 
-                td
+                  p.pst_2 <b>Unidad productiva</b>
+                  p.pst_2 <b>Colectivo</b>
+                  p.pst_2 <b>Lidiando con los efectos</b> 
+                td(style="background-color: white")
                   ul.lista-ul--color
                     li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
@@ -207,8 +206,8 @@
                     li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
                       p Ayuda mutua
-                td
-                  ul.lista-ul--color
+                td(style="background-color: white")
+                  ul.pst_3.lista-ul--color
                     li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
                       p Comercialización por contrato
@@ -221,7 +220,7 @@
                     li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
                       p Créditos
-                td
+                td(style="background-color: white")
                   ul.lista-ul--color
                     li
                       <i class="fas fa-cog" style="color:#FFA686"></i>

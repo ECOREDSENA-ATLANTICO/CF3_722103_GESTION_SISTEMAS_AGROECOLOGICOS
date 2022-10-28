@@ -14,7 +14,7 @@
         p.m-0 Con el propósito de realizar la estimación del modelo de aptitud del territorio para el desarrollo de actividades agroecológicas se deben llevar a cabo una serie de acciones, una de ellas es la identificación de inventarios de los recursos de la tierra como el clima, el relieve, el suelo, entre otros, y por otro lado el inventario de los usos de la tierra donde se analizan los requerimientos ecológicos para que el sistema agroalimentario se desarrolle apropiadamente y procure que los índices de producción y eficiencia asociados al proceso productivo sean los mejores. 
     .row.mb-5
       .col-auto.py-2.px-3.bg-c1
-        p.mb-0 #[b.text-black Usos del suelo]
+        h4.mb-0.text-black Usos del suelo
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
         p El uso actual del suelo y su respectiva cobertura vegetal es de suma importancia en el momento de realizar la zonificación agroecológica, ya que es un insumo esencial para poder determinar el modelo de aptitud del territorio y orientar la planificación y diseño del sistema agroalimentario. Por consiguiente, los tipos de uso del suelo y su cobertura deben ser tenidos en cuenta en este análisis ya que estos atributos son los determinantes para la definición del uso potencial de la tierra y los requisitos para la evaluación de esta.
@@ -38,12 +38,14 @@
                 th(colspan="3") Insumos elevados
             tbody
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") Producto y producción
+                th(colspan="3") 
+                  h5 Producto y producción
                 td(colspan="9") 
                   p Cultivo de cebada de secano, maíz, avena, mijo, arroz, sorgo, trigo, garbanzo, caupí, cacahuete, haba, guandú, soja, mandioca, batata, patata, banana, palma y caña de azúcar. Sistema individual y múltiple de cultivo bajo patrones de cultivos y rotaciones apropiados.
               
               tr
-                th(colspan="3") Orientación sobre mercado
+                th(colspan="3") 
+                  h5 Orientación sobre mercado
                 td(colspan="3") 
                   p Producción de subsistencia
                 td(colspan="3") 
@@ -52,7 +54,8 @@
                   P Producción comercial
                 
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3")  Intensidad de capital
+                th(colspan="3") 
+                  h5 Intensidad de capital
                 td(colspan="3")  
                   p Bajo
                 td(colspan="3")  
@@ -61,7 +64,8 @@
                   P Alto
                
               tr
-                th(colspan="3")  Intensidad de trabajo
+                th(colspan="3") 
+                  h5 Intensidad de trabajo
                 td(colspan="3")  
                   p Elevado, incluyendo trabajo familiar no remunerado
                 td(colspan="3")  
@@ -70,7 +74,8 @@
                   P Bajo, trabajo familiar remunerado si se utiliza
                
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3")  Fuente de energía
+                th(colspan="3")  
+                  h5 Fuente de energía
                 td(colspan="3")  
                   p Trabajo manual con herramientas manuales
                 td(colspan="3")  
@@ -79,7 +84,8 @@
                   P Mecanización total
                 
               tr
-                th(colspan="3")  Tecnología
+                th(colspan="3")  
+                  h5 Tecnología
                 td(colspan="3")  
                   p Variedades tradicionales. Sin fertilizantes ni agroquímicos. Períodos de barbecho. Escasas medidas de conservación
                 td(colspan="3")  
@@ -88,7 +94,8 @@
                   P Variedades de altos rendimientos incluyendo híbridos. Óptimo uso de fertilizantes y agroquímicos. Medidas de conservación completas
                 
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") Infraestructura
+                th(colspan="3") 
+                  h5 Infraestructura
                 td(colspan="3")  
                   p Sin accesibilidad a los mercados. Inadecuados servicios de asistencia
                 td(colspan="3")  
@@ -97,7 +104,8 @@
                   P Accesibilidad a los mercados. Elevado nivel de los servicios de asistencia y acceso a los resultados de investigación
                
               tr
-                th(colspan="3")  Tenencia de la tierra
+                th(colspan="3")  
+                h5 Tenencia de la tierra
                 td(colspan="3")  
                   p Pequeña, fragmentada
                 td(colspan="3")  
@@ -106,7 +114,8 @@
                   P Extensa, consolidada
                
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") Nivel de ingresos
+                th(colspan="3") 
+                  h5 Nivel de ingresos
                 td(colspan="3")  
                   p Bajo
                 td(colspan="3")  
@@ -115,7 +124,7 @@
                   p Elevado
     .row.mb-5
       .col-auto.py-2.px-3.bg-c1
-        p.mb-0 #[b.text-black Modelos de producción]
+        h4.mb-0.text-black Modelos de producción
     .row.align-items-center.mb-3
       .col-lg-12(data-aos="fade-right")
         p.mb-4 Los sistemas agropecuarios en Colombia y ALC juegan un papel indispensable para la producción de servicios ecosistémicos y alimentos que no solo satisfacen las necesidades alimentarias de la región sino del mundo en general, estos sistemas pueden dividirse por categorías, las cuales pueden ser:
@@ -188,7 +197,7 @@
     p.mb-5 Esta clasificación es determinada de acuerdo con los potenciales para reducir la pobreza, la capacidad de crecimiento agrícola, la importancia demográfica y económica de cada sistema al interior de la región donde se desarrolla; además, cada uno de estos sistemas de producción refleja las características bióticas y abióticas que determinan la extensión e intensidad de la producción, tipo de cultivos y recursos asociados.
     .row.mb-5
       .col-auto.py-2.px-3.bg-c1
-        p.mb-0 #[b.text-black Fuentes de producción]
+        h4.mb-0.text-black Fuentes de producción
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
         p Para caracterizar la estructura productiva de los territorios es importante identificar los indicadores involucrados en el análisis e identificación de los usos del suelo en el territorio, los cuales son: 
@@ -206,7 +215,7 @@
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img12.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-3
+          .col-9.align-items-center.p-2
             div
               p.mb-0 Tamaño de las explotaciones. 
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
@@ -214,7 +223,7 @@
           .col-3.px-0.align-items-center
             figure
               img(src='@/assets/curso/tema3/img13.svg', alt='Texto que describa la imagen')
-          .col-9.align-items-center.p-3
+          .col-9.align-items-center.p-2
             div
               p.mb-0 Balance de uso de mano de obra.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")

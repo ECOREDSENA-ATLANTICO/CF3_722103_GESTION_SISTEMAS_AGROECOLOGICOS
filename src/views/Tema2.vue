@@ -127,7 +127,7 @@
         p El desarrollo de modelos de aptitud del territorio para el avance de actividades agroecológicas es uno de los elementos que compone la zonificación agroecológica, según la FAO, una zonificación agroecológica permiten la evaluación de la aptitud y productividad potencial, así como los recursos presentes en el territorio, y esta información suministra las bases para poder evaluar la degradación del suelo y de la capacidad de sostenimiento de la población, así como planificar y diseñar los modelos de producción ganadera y de optimización de usos de suelo en el territorio. La zonificación agroecológica presenta elementos necesarios para su aplicación, dentro de los cuales se encuentran: 
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img9.png', style="width: 280px")
+          img(src='@/assets/curso/tema2/img9.png', alt='')
     .row.justify-content-center.mb-5
       .col-lg-3.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -274,7 +274,7 @@
     p.mb-5 Cabe resaltar que cada una de estas técnicas puede presentar variaciones en términos de precisión. Dentro de las técnicas o métodos más utilizados para la medición de áreas se encuentran:
     .row.mb-4
       .col-auto.py-2.px-3.bg-c1
-        p.mb-0 #[b.text-black Método de cinta]
+        h4.mb-0.text-black Método de cinta
     .row.mb-4
       .col-12
         p.mb-5 La cinta métrica es una de las herramientas más utilizadas en la topografía para la medición de distancias entre puntos. Para realizar la medición con cinta se cuenta con dos métodos, los cuales se pueden visualizar en la siguiente representación:
@@ -298,14 +298,14 @@
             p.ms-4 La cinta debe ser puesta sobre el terreno, respetando la pendiente. Para medir el grado de la pendiente se debe usar un nivel de mano o un clinómetro. La distancia horizontal es calculada a partir de relaciones trigonométricas. 
             p.ms-4 de la pendiente es mayor a al 5% es necesario que la longitud medida sea menor a la longitud total de la cinta. 
     p.mb-5 <b>Errores de la medición a través de método de cinta</b>
-    .row.justify-content-center.align-items-center.mb-5.m_tar-boton
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-6.col-lg-3.mb-3.mb-lg-0
         .tarjeta--boton.color-secundario.p-4.p-lg-2.bord_rad-tarboton
           .row.justify-content-center.align-items-center
             .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
               figure
                 img.img-t.mx-auto.ms-2(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
+            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-2
               p.m-0 No leer o registrar los números de la cinta métrica correctamente.
 
       .col-sm-6.col-lg-3.mb-3.mb-lg-0
@@ -331,11 +331,11 @@
             .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
               figure
                 img.img-t.ms-2(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
+            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-2
               p.m-0 No ubicar el cero de la cinta métrica correctamente.
     .row.mb-4
       .col-auto.py-2.px-3.bg-c1
-        p.mb-0 #[b.text-black Estimación y mapeo de cinta y brújula:]
+        h4.mb-0.text-black Estimación y mapeo de cinta y brújula:
     .row.mb-4
       .col-12
         p.mb-5 Para realizar la medición con cinta se cuenta con dos métodos, los cuales son:
@@ -403,7 +403,7 @@
                         i.fas.fa-link  
     .row.mb-4
       .col-auto.py-2.px-3.bg-c1
-        p.mb-0 #[b.text-black Método de doble distancia meridiana:]
+        h4.mb-0.text-black Método de doble distancia meridiana:
     .row.mb-4
       .col-12
         p.mb-5 Este método es basado en principios geométricos y trigonométricos, donde para calcular el área de la unidad productiva se deben definir un grupo de puntos o coordenadas con proyecciones x, y conocidas y su estimación se realiza a través de la aplicación de las siguientes reglas:  
@@ -414,21 +414,21 @@
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
-                span 1
+                span.text-black 1
               | La doble distancia meridiana del primer lado es igual a la proyección en x de ese lado.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta.color-acento-contenido1.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
-                span 2
+                span.text-black 2
               | La doble distancia meridiana de cualquier otro lado es igual a la doble distancia meridiana del lado anterior, más la proyección en x del lado anterior, más la proyección de x del mismo lado.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta.color-acento-contenido1.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
-                span 3
+                span.text-black 3
               | La doble distancia meridiana del último lado es igual a la proyección en x del mismo lado, pero con signo contrario.
     .bg7.pt-5.mb-4
       .row.justify-content-end.align-items-center
@@ -440,7 +440,7 @@
             img.img-t(src='@/assets/curso/tema2/img29.svg', alt='') 
     .row.mb-5
       .col-auto.py-2.px-3.bg-c1
-        p.mb-0 #[b.text-black Método de medición de área con teodolito:]
+        h4.mb-0.text-black Método de medición de área con teodolito:
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure

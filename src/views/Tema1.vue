@@ -39,17 +39,24 @@
             caption Nota. Le Coq, J. Patrouilleau, M. Sabourin, E. y Niederle, P. (2020). Políticas públicas que promueven la agroecología y producción orgánica en América Latina.
             thead
               tr(style="background-color: #FFA686") 
-                th Criterios distintivos
-                td Agroecología latinoamericana
+                th 
+                  h4 Criterios distintivos
+                
+                th 
+                  h4 Agroecología latinoamericana
                   
-                td Agricultura orgánica
+                th 
+                  h4 Agricultura orgánica
                   
-                td Agricultura sostenible
+                th 
+                  h4 Agricultura sostenible
                   
-                td Agricultura convencional
+                th 
+                  h4 Agricultura convencional
             tbody
               tr(style="background-color: #F6F6F6") 
-                th Tipo de finca agrícola
+                th 
+                  h5 Tipo de finca agrícola
                 td
                   p Fincas familiares (llamadas familiares,campesinas, indígenas)
                 td
@@ -59,7 +66,8 @@
                 td
                   P Todos los tipos
               tr
-                th Integración al mercado
+                th 
+                  h5 Integración al mercado
                 td 
                     p Limitada
                 td 
@@ -69,7 +77,8 @@
                 td 
                     P Máxima
               tr(style="background-color: #F6F6F6") 
-                th Sistema de alimentos objetivo (1)
+                th 
+                  h5 Sistema de alimentos objetivo (1)
                 td 
                   p Circuitos cortos
                 td 
@@ -79,7 +88,8 @@
                 td 
                   P Circuitos largos y exportación
               tr
-                th Etiquetado de productos alimenticios agrícolas
+                th 
+                  h5 Etiquetado de productos alimenticios agrícolas
                 td 
                   p Posible, más o menos formalizada
                 td 
@@ -89,7 +99,8 @@
                 td 
                   P No
               tr(style="background-color: #F6F6F6") 
-                th Escala de cambio de prácticas agrícolas
+                th 
+                  h5 Escala de cambio de prácticas agrícolas
                 td 
                   p Parcela, finca, territorio
                 td 
@@ -99,7 +110,8 @@
                 td 
                   P Parcela
               tr
-                th Insumos (abonos, productos fitosanitarios…)
+                th 
+                  h5 Insumos (abonos, productos fitosanitarios…)
                 td 
                   p Pocos insumos y procedentes de procesos biológicos
                 td 
@@ -109,7 +121,8 @@
                 td 
                   P Uso masivo de insumos sintéticos
               tr(style="background-color: #F6F6F6") 
-                th Cultivo de variedades genéticamente modificadas
+                th 
+                  h5 Cultivo de variedades genéticamente modificadas
                 td 
                   p No
                 td 
@@ -119,7 +132,8 @@
                 td 
                   P Sí
               tr
-                th Diversificación de la producción en la finca agrícola
+                th 
+                  h5 Diversificación de la producción en la finca agrícola
                 td 
                   p Sí
                 td 
@@ -129,7 +143,8 @@
                 td 
                   P No buscada
               tr(style="background-color: #F6F6F6") 
-                th Factores principales que contribuyen a la promoción del modelo
+                th 
+                  h5 Factores principales que contribuyen a la promoción del modelo
                 td 
                   p <b>a</b> Políticas públicas impulsadas por movimientos sociales.
                   p <b>b</b> Demanda consumida a través de circuitos cortos, o programas de compra por audiencias preferenciales.
