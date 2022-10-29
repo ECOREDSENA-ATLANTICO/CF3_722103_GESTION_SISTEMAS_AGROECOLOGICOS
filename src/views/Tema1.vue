@@ -58,7 +58,7 @@
                 th 
                   h5 Tipo de finca agrícola
                 td
-                  p Fincas familiares (llamadas familiares,campesinas, indígenas)
+                  p Fincas familiares (llamadas familiares,<br> campesinas, indígenas)
                 td
                   P Todos los tipos
                 td

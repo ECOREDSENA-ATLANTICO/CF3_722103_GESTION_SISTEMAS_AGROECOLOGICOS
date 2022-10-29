@@ -54,7 +54,7 @@
         .titulo-sexto.color-acento-contenido
           p.mb-0 #[b Tabla 2]. Temáticas técnicas y legales para la generación de un modelo de aptitud del territorio
     .row.justify-content-center.mb-5(data-aos="zoom-in")
-      .col-9.col-lg-4.mb-3.mb-lg-0.bgt01
+      .col-12.col-lg-4.mb-3.mb-lg-0.bgt01
         .row
           .col-12.p-3.bgtitulo
             h4.m-0.text-center Temáticas 
@@ -78,7 +78,7 @@
                 p.m-0 <b>Socioeconómico:</b>
               p.m-0.ms-4 Clasificación de predios por área.
               p.m-0.ms-4 Avalúos del territorio. 
-      .col-9.col-lg-4.mb-3.mb-lg-0.bgt02
+      .col-12.col-lg-4.mb-3.mb-lg-0.bgt02
         .row
           .col-12.p-3.bgtitulo
             h4.m-0.text-center Componentes
@@ -126,23 +126,23 @@
         p <b>Se debe tener presente que los mapas de las temáticas técnicas y legales para la generación de un modelo de aptitud del territorio deben ser analizadas bajo el mismo sistema de coordenadas y escalas.</b>
         p El desarrollo de modelos de aptitud del territorio para el avance de actividades agroecológicas es uno de los elementos que compone la zonificación agroecológica, según la FAO, una zonificación agroecológica permiten la evaluación de la aptitud y productividad potencial, así como los recursos presentes en el territorio, y esta información suministra las bases para poder evaluar la degradación del suelo y de la capacidad de sostenimiento de la población, así como planificar y diseñar los modelos de producción ganadera y de optimización de usos de suelo en el territorio. La zonificación agroecológica presenta elementos necesarios para su aplicación, dentro de los cuales se encuentran: 
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
-        figure
-          img(src='@/assets/curso/tema2/img9.png', alt='')
+        figure.d-flex.justify-content-center
+          img.img-t(src='@/assets/curso/tema2/img9.png', alt='')
     .row.justify-content-center.mb-5
-      .col-lg-3.col-lg.mb-5.mb-lg-0
+      .col-lg-3.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar
           img.img-t.m-auto(src='@/assets/curso/tema2/img10.svg', style="width: 100px")
           .tarjeta.color-acento-contenido1
             .p-4
               p Inventario de recursos del territorio.
 
-      .col-lg-3.col-lg.mb-5.mb-lg-0
+      .col-lg-3.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar
           img.img-t.m-auto(src='@/assets/curso/tema2/img11.svg', style="width: 100px")
           .tarjeta.color-acento-contenido1
             .p-4
               p Inventario de tipos de utilización del territorio y requerimientos de la plantación.
-      .col-lg-3.col-lg.mb-5.mb-lg-0
+      .col-lg-3.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar
           img.img-t.m-auto(src='@/assets/curso/tema2/img12.svg', style="width: 100px")
           .tarjeta.color-acento-contenido1
@@ -155,13 +155,13 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-5
           h5 Figura 5.
           span Marco conceptual de la zonificación agroecológica
-      .col-9.col-lg-5.mb-3.mb-lg-0.bgt03
-        .row.m-1.mb-5
-          .col-12.p-3.bgtitulo(style="height: 320px")
+      .col-12.col-lg-5.mb-3.mb-lg-0.bgt03
+        .row.m-1
+          .col-12.p-3.bgtitulo
             img.imgtop(src="@/assets/curso/tema2/img13.png"  alt='Texto que describa la imagen')
-            .bgsly3.p-2.mt-5.mb-4.d-flex.justify-content-center
+            .bgsly3.p-2.mt-3.mb-4.d-flex.justify-content-center
               h4.text-center.mb-0 Aplicaciones básicas
-          .col-12.p-3.bgcontenido(style="height: 375px")
+          .col-12.p-3.bgcontenido(style="height: 385px")
             ul.lista-ul--color
               li.m-0
                 <i class="fas fa-cog" style="color:#FFA686"></i>
@@ -178,13 +178,13 @@
               p.m-0.ms-4 Mapas de zonas agro-ecológicas.
               p.m-0.ms-4 Aptitud de tierras: clases de aptitud, rendimientos potenciales.
               
-      .col-9.col-lg-5.mb-3.mb-lg-0.bgt03
+      .col-12.col-lg-5.mb-3.mb-lg-0.bgt03
         .row.m-0
-          .col-12.bgtitulo(style="height: 320px")
+          .col-12.p-3.bgtitulo
             img.imgtop1(src="@/assets/curso/tema2/img14.png"  alt='Texto que describa la imagen')
-            .bgsly3.p-2.mt-5.mb-4
+            .bgsly3.p-2.mt-3.mb-4
               h4.text-center.mb-0 Aplicaciones avanzadas
-          .col-12.p-3.bgcontenido(style="height: 375px")
+          .col-12.p-3.bgcontenido
             ul.lista-ul--color
               li.m-0
                 <i class="fas fa-cog" style="color:#FFA686"></i>
@@ -231,11 +231,18 @@
       .col-lg-2(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema2/img15.svg', alt='')
-    .bg1.p-5.mb-4
-      .row.justify-content-center.align-items-center
-        .col-lg-12.mb-5
+    .bg1
+      .row.mb-5.py-5
+        .col-12.col-lg-9
           figure
             img.img-t.m-auto(src='@/assets/curso/tema2/img16.svg', alt='')
+        .col-12.col-lg-3
+          .tarjeta-avatar
+            img(src='@/assets/curso/tema2/img36.svg' alt='AvatarTop')
+            .tarjeta.color2
+              .p-4
+                p.mb-0 Es así como la topografía en conjunto con otras tecnologías como los drones y los sistemas de posicionamiento global (GPS) han evolucionado con el fin de proporcionar nuevas herramientas, que permitan medir y georreferenciar con mayor precisión y rapidez las unidades agroecológicas.
+
     p.mb-5 Para realizar el levantamiento topográfico es necesario considerar las áreas como superficies horizontales y no las áreas reales de la superficie del terreno. Sin embargo, en algunas ocasiones es necesario calcular el área de una sección transversal del terreno, como se muestra en la siguiente figura:  
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -275,11 +282,10 @@
     .row.mb-4
       .col-auto.py-2.px-3.bg-c1
         h4.mb-0.text-black Método de cinta
-    .row.mb-4
-      .col-12
-        p.mb-5 La cinta métrica es una de las herramientas más utilizadas en la topografía para la medición de distancias entre puntos. Para realizar la medición con cinta se cuenta con dos métodos, los cuales se pueden visualizar en la siguiente representación:
+ 
+    p.mb-5 La cinta métrica es una de las herramientas más utilizadas en la topografía para la medición de distancias entre puntos. Para realizar la medición con cinta se cuenta con dos métodos, los cuales se pueden visualizar en la siguiente representación:
     .row.justify-content-center.mb-3(data-aos="zoom-in")
-      .col-9.col-lg-5.mb-3.mb-lg-0.bgt03
+      .col-12.col-lg-5.mb-3.mb-lg-0.bgt03
         .row.m-1.mb-5
           .col-12.p-3.bgtitulo(style="height: 190px")
             img.imgtop3(src='@/assets/curso/tema2/img20.svg', style="width: 130px")
@@ -288,51 +294,51 @@
           .col-12.p-3.bgcontenido(style="height: 245px")
             p.ms-4 La cinta debe sostenerse de forma horizontal y se proyecta con una plomada a la graduación requerida en el terreno. 
             p.ms-4 El uso de la plomada no es recomendable cuando la altura es mayor a la altura del cuello, para este caso es necesario que la longitud medida sea menor a la longitud total de la cinta.          
-      .col-9.col-lg-5.mb-3.mb-lg-0.bgt03
+      .col-12.col-lg-5.mb-3.mb-lg-0.bgt04
         .row.m-1
           .col-12.bgtitulo(style="height: 190px")
             img.imgtop3(src='@/assets/curso/tema2/img21.svg', style="width: 130px")
             .bgsly2.p-2.mt-5.mb-4.d-flex.justify-content-center
               h4.text-center.mb-0 Medición en pendientes 
-          .col-12.p-3.bgcontenido(style="height: 245px")
+          .col-12.p-3.bgcontenido(style="height: 255px")
             p.ms-4 La cinta debe ser puesta sobre el terreno, respetando la pendiente. Para medir el grado de la pendiente se debe usar un nivel de mano o un clinómetro. La distancia horizontal es calculada a partir de relaciones trigonométricas. 
             p.ms-4 de la pendiente es mayor a al 5% es necesario que la longitud medida sea menor a la longitud total de la cinta. 
     p.mb-5 <b>Errores de la medición a través de método de cinta</b>
-    .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-3.mb-3.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.p-lg-2.bord_rad-tarboton
-          .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-2
-              p.m-0 No leer o registrar los números de la cinta métrica correctamente.
 
-      .col-sm-6.col-lg-3.mb-3.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.p-lg-2.bord_rad-tarboton
-          .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
+    .row.mb-5
+      .col-12.col-md-6.mb-3.col-lg-3
+        .bgr.h-100.p-4.d-flex.align-items-center
+          .row
+            .col-auto.d-flex.align-items-center
               figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              p.m-0 No tensar bien la cinta métrica.
-      .col-sm-6.col-lg-3.mb-3.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.p-lg-2.bord_rad-tarboton
-          .row.justify-content-center.align-items-center
-            .col-lg-4.col-xl-3.col-xxl-4.col-md-4.col-4.mt-0.mt-lg-2
+                img(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
+            .col-7.d-flex.align-items-center
+              p.mb-0 No leer o registrar los números de la cinta métrica correctamente.
+      .col-12.col-md-6.mb-3.col-lg-3
+        .bgr.h-100.p-4.d-flex.align-items-center
+          .row
+            .col-auto.d-flex.align-items-center
               figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
-            .col-lg-8.col-xl-9.col-xxl-8.col-md-8.col-8.mt-0.mt-lg-2
-              p.m-0 No alinear la cinta métrica correctamente.
-
-      .col-sm-6.col-lg-3.mb-3.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.p-lg-2.bord_rad-tarboton
-          .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
+                img(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
+            .col-7.d-flex.align-items-center
+              p.mb-0 No tensar bien la cinta métrica.
+      .col-12.col-md-6.mb-3.col-lg-3
+        .bgr.h-100.p-4.d-flex.align-items-center
+          .row
+            .col-auto.d-flex.align-items-center
               figure
-                img.img-t.ms-2(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-2
-              p.m-0 No ubicar el cero de la cinta métrica correctamente.
+                img(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
+            .col-7.d-flex.align-items-center
+              p.mb-0 No alinear la cinta métrica correctamente.
+      .col-12.col-md-6.mb-3.col-lg-3
+        .bgr.h-100.p-4.d-flex.align-items-center
+          .row
+            .col-auto.d-flex.align-items-center
+              figure
+                img(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
+            .col-7.d-flex.align-items-center
+              p.mb-0 No ubicar el cero de la cinta métrica correctamente.
+    
     .row.mb-4
       .col-auto.py-2.px-3.bg-c1
         h4.mb-0.text-black Estimación y mapeo de cinta y brújula:
@@ -409,26 +415,26 @@
         p.mb-5 Este método es basado en principios geométricos y trigonométricos, donde para calcular el área de la unidad productiva se deben definir un grupo de puntos o coordenadas con proyecciones x, y conocidas y su estimación se realiza a través de la aplicación de las siguientes reglas:  
    
     .row.justify-content-center.mb-5
-      .col-lg-4.col-lg.mb-5.mb-lg-0
+      .col-lg-4.col-lg.mb-3.mb-lg-0
         .tarjeta.color-acento-contenido1.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
-                span.text-black 1
+                span.text-black 01.
               | La doble distancia meridiana del primer lado es igual a la proyección en x de ese lado.
-      .col-lg-4.col-lg.mb-5.mb-lg-0
+      .col-lg-4.col-lg.mb-3.mb-lg-0
         .tarjeta.color-acento-contenido1.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
-                span.text-black 2
+                span.text-black 02.
               | La doble distancia meridiana de cualquier otro lado es igual a la doble distancia meridiana del lado anterior, más la proyección en x del lado anterior, más la proyección de x del mismo lado.
-      .col-lg-4.col-lg.mb-5.mb-lg-0
+      .col-lg-4.col-lg.mb-3.mb-lg-0
         .tarjeta.color-acento-contenido1.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
-                span.text-black 3
+                span.text-black 03.
               | La doble distancia meridiana del último lado es igual a la proyección en x del mismo lado, pero con signo contrario.
     .bg7.pt-5.mb-4
       .row.justify-content-end.align-items-center

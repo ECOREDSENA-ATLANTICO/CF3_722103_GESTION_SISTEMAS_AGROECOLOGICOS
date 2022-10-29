@@ -32,95 +32,95 @@
             caption Nota. FAO. (1997). Zonificación agro-ecológica. Guía general. 
             thead
               tr(style="background-color: #FFA686") 
-                th(colspan="3") Atributo
-                th(colspan="3") Insumos bajos
-                th(colspan="3") Insumos medios
-                th(colspan="3") Insumos elevados
+                th Atributo
+                th Insumos bajos
+                th Insumos medios
+                th Insumos elevados
             tbody
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") 
+                th 
                   h5 Producto y producción
-                td(colspan="9") 
+                td(colspan="3") 
                   p Cultivo de cebada de secano, maíz, avena, mijo, arroz, sorgo, trigo, garbanzo, caupí, cacahuete, haba, guandú, soja, mandioca, batata, patata, banana, palma y caña de azúcar. Sistema individual y múltiple de cultivo bajo patrones de cultivos y rotaciones apropiados.
               
               tr
-                th(colspan="3") 
+                th 
                   h5 Orientación sobre mercado
-                td(colspan="3") 
+                td 
                   p Producción de subsistencia
-                td(colspan="3") 
+                td 
                   P Producción de subsistencia más venta comercial de productos
-                td(colspan="3") 
+                td 
                   P Producción comercial
                 
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") 
+                th 
                   h5 Intensidad de capital
-                td(colspan="3")  
+                td  
                   p Bajo
-                td(colspan="3")  
+                td  
                   P Intermedio con créditos accesibles
-                td(colspan="3")  
+                td  
                   P Alto
                
               tr
-                th(colspan="3") 
+                th 
                   h5 Intensidad de trabajo
-                td(colspan="3")  
+                td  
                   p Elevado, incluyendo trabajo familiar no remunerado
-                td(colspan="3")  
+                td  
                   P Medio, incluyendo trabajo familiar no remunerado
-                td(colspan="3")  
+                td  
                   P Bajo, trabajo familiar remunerado si se utiliza
                
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3")  
+                th  
                   h5 Fuente de energía
-                td(colspan="3")  
+                td  
                   p Trabajo manual con herramientas manuales
-                td(colspan="3")  
+                td  
                   P Trabajo manual con herramientas manuales y/o tracción animal con implementos mejorados; alguna mecanización
-                td(colspan="3")  
+                td  
                   P Mecanización total
                 
               tr
-                th(colspan="3")  
+                th  
                   h5 Tecnología
-                td(colspan="3")  
+                td  
                   p Variedades tradicionales. Sin fertilizantes ni agroquímicos. Períodos de barbecho. Escasas medidas de conservación
-                td(colspan="3")  
+                td  
                   P Variedades mejoradas. Adecuadas prácticas extensionistas, incluyendo algunos fertilizantes y agroquímicos. Algunos períodos de barbecho y medida de conservación
-                td(colspan="3")  
+                td  
                   P Variedades de altos rendimientos incluyendo híbridos. Óptimo uso de fertilizantes y agroquímicos. Medidas de conservación completas
                 
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") 
+                th 
                   h5 Infraestructura
-                td(colspan="3")  
+                td  
                   p Sin accesibilidad a los mercados. Inadecuados servicios de asistencia
-                td(colspan="3")  
+                td  
                   P Accesibilidad a algunos mercados y servicios de demostración
-                td(colspan="3")  
+                td  
                   P Accesibilidad a los mercados. Elevado nivel de los servicios de asistencia y acceso a los resultados de investigación
                
               tr
-                th(colspan="3")  
-                h5 Tenencia de la tierra
-                td(colspan="3")  
+                th  
+                  h5 Tenencia de la tierra
+                td  
                   p Pequeña, fragmentada
-                td(colspan="3")  
+                td  
                   P Pequeña, algo fragmentada
-                td(colspan="3")  
+                td  
                   P Extensa, consolidada
                
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") 
+                th 
                   h5 Nivel de ingresos
-                td(colspan="3")  
+                td  
                   p Bajo
-                td(colspan="3")  
+                td  
                   P Moderado
-                td(colspan="3")  
+                td  
                   p Elevado
     .row.mb-5
       .col-auto.py-2.px-3.bg-c1
@@ -131,8 +131,7 @@
         h4.text-center Sistemas de producción agropecuaria:
     .row.justify-content-evenly.align-items-lg-stretch.mb-5
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        
-        .tarjeta--boton.color-secundario.bgtb.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -140,7 +139,7 @@
           p.px-3 Riego.
 
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -148,7 +147,7 @@
           p.px-3 Basado en cultivo de arroz de tierras húmedas.
 
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        .tarjeta--boton.color-secundario.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -156,7 +155,7 @@
           p.px-3 Secano en áreas húmedas.
 
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        .tarjeta--boton.color-secundario.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -164,7 +163,7 @@
           p.px-3 Secano en áreas escarpadas y tierras altas.   
     .row.justify-content-evenly.align-items-lg-stretch.mb-5
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        .tarjeta--boton.color-secundario.bgtb.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -172,7 +171,7 @@
           p.px-3 Secano en áreas secas y frías con escaso potencial.
 
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -180,7 +179,7 @@
           p.px-3 Agropecuaria dual (mixto de plantaciones comerciales y pequeños productores).
 
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        .tarjeta--boton.color-secundario.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -188,7 +187,7 @@
           p.px-3 Pesca costera artesanal.
 
       .col-sm-6.col-lg-3.mb-5.mb-lg-0
-        .tarjeta--boton.color-secundario.p-2
+        .tarjeta.color-secundario.bgtb.h-100.p-2
           .row.justify-content-center.mb-3
             .col-12
               figure
@@ -198,100 +197,100 @@
     .row.mb-5
       .col-auto.py-2.px-3.bg-c1
         h4.mb-0.text-black Fuentes de producción
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-3
       .col-lg-10(data-aos="fade-right")
         p Para caracterizar la estructura productiva de los territorios es importante identificar los indicadores involucrados en el análisis e identificación de los usos del suelo en el territorio, los cuales son: 
     .row.mb-5
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img11.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img11.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-4
             div
               p.mb-0 Tenencia de la tierra.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img12.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img12.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-2
             div
               p.mb-0 Tamaño de las explotaciones. 
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img13.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img13.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-2
             div
               p.mb-0 Balance de uso de mano de obra.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img14.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img14.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-3
             div
               p.mb-0 Tipo de explotación.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img16.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img16.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-4
             div
               p.mb-0 Crédito.
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img17.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img17.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-4
             div
               p.mb-0 Nivel tecnológico.  
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img18.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img18.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-4
             div
               p.mb-0 Asistencia técnica   
       .col-12.col-lg-3.mb-3.h-100(data-aos="zoom-in")
         .row.bg8
-          .col-3.px-0.align-items-center
-            figure
-              img(src='@/assets/curso/tema3/img19.svg', alt='Texto que describa la imagen')
+          .col-3.bgr_2.px-0.align-items-center
+            figure.p-3
+              img.img90(src='@/assets/curso/tema3/img19.svg', alt='Texto que describa la imagen')
           .col-9.align-items-center.p-3
             div
               p.mb-0 Destino y tipo de producción.
     p Conforme a estos parámetros se pueden definir el tipo de productor, encontrando:
     .row.justify-content-center.mb-5
-      .col-lg-3.col-lg.mb-5.mb-lg-0
+      .col-lg-3.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar.h-100
           img.img-t.m-auto(src='@/assets/curso/tema3/img20.svg', style="width: 160px")
           .tarjeta.color-acento-contenido
-            .p-4
-              p.mt-4 Agricultores de subsistencia (arrendatarios o propietarios).
-      .col-lg-3.col-lg.mb-5.mb-lg-0
+            .p-4.text-center
+              p.mt-4.text-bold Agricultores de subsistencia (arrendatarios o propietarios).
+      .col-lg-3.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar.h-100
           img.img-t.m-auto(src='@/assets/curso/tema3/img21.svg', style="width: 160px")
           .tarjeta.color-acento-contenido
-            .p-4
-              p.mt-4 Pequeños agricultores.
-      .col-lg-3.col-lg.mb-5.mb-lg-0
+            .p-4.text-center
+              p.mt-4.text-bold Pequeños agricultores.
+      .col-lg-3.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar
           img.img-t.m-auto(src='@/assets/curso/tema3/img22.svg', style="width: 180px")
           .tarjeta.color-acento-contenido
-            .p-4
-              p.mt-4 Productores comerciales.
-      .col-lg-3.col-lg.mb-5.mb-lg-0
+            .p-4.text-center
+              p.mt-4.text-bold Productores comerciales.
+      .col-lg-3.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar
           img.img-t.m-auto(src='@/assets/curso/tema3/img23.svg', style="width: 160px")
           .tarjeta.color-acento-contenido
-            .p-4
-              p.mt-4 Productores agroindustriales.
+            .p-4.text-center
+              p.mt-4.text-bold Productores agroindustriales.
 </template>
 
 <script>

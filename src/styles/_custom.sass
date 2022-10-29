@@ -39,9 +39,10 @@
     top: -9%
     left: -5%
     width: calc( 100% + 7rem)
-    height: 100%
+    height: calc( 100% + 3rem)
     background-color: #F3F9FF
-    @media (max-width: $bp-max-md) 
+    @media (max-width: $bp-max-sm) 
+      top: 0
       height: 100%
 
 .bg2
@@ -67,7 +68,7 @@
     left: -4%
     width: 111%
     height: 105%
-    background-color: #F0F1ED
+    background-color: #FDFFF7
     @media (max-width: $bp-max-md)
       width: 100%
       left: -1%
@@ -82,8 +83,8 @@
     content: ''
     position: absolute
     margin: 0 0rem
-    top: + 17rem
-    left: 1
+    top: 17rem
+    left: 0
     width: calc( 100% + 0rem)
     height: 60%
     background-color: #F3F9FF
@@ -91,6 +92,9 @@
       background-size: cover
       left: -8px
       width: calc( 100% + 1rem)
+    @media (max-width: $bp-max-sm)
+      top: 12rem
+      height: 38%
 
 .bg6
   background-color: #E8E8E8
@@ -197,15 +201,7 @@
   &:hover
     transform: scale(1.1)
 .bgtb
-  .tarjeta--boton 
-    border-radius: 0
-    background-color: #ADCE32
-    border-start-start-radius: 15px
-    border-start-end-radius: 15px
-    height: 100%
-    @media (max-width: $bp-max-md) 
-      width: 100% 
-  .tarjeta--boton.color-secundario:hover
+  &:hover
     background-color: #FFA686
 
 .tarjeta.color-primario 
@@ -229,15 +225,15 @@
 
 .bgt03
   .bgtitulo
-    background-color: #FFD3C3
+    background-color: #FFA686
   .bgcontenido
-    background-color: #F0F4D9
+    background-color: #FFE9E1
 
 .bgt04
   .bgtitulo
     background-color: #ADCE32
   .bgcontenido
-    background-color: #DEEBAD
+    background-color: #EFF5D6
   
 .tarjeta.color-acento-contenido1 
   background-color: #DEEBAD
@@ -266,11 +262,13 @@
   margin-top: -65px
 
 .imgtop1
-  margin-top: 29px
+  margin-top: 24px
 
 .imgtop3
   margin-top: -65px
   margin-left: 175px
+  @media (max-width: $bp-max-sm) 
+    margin-left: 100px 
 
 .bord_rad-tarboton
   .tarjeta--boton.color-secundario:hover
@@ -290,18 +288,25 @@
   display: inline-flex
 
 .otrobloque2 .bloque-texto-g__img
-    width: 50%
-    position: absolute
-    top: 0
-    left: 50%
-    background-position: top
-    background-size: 100% 108%
+  width: 50%
+  position: absolute
+  top: 0
+  left: 50%
+  background-position: top
+  background-size: 100% 108%
+  @media (max-width: $bp-max-sm)
+    width: 100%
+    left: 0
+    
 
 .otrobloque2 .bloque-texto-g__texto 
   position: relative
   width: 65%
   right: 34%
   background-color: rgba(255, 255, 255, 0.95)
+  @media (max-width: $bp-max-sm)
+    width: 100%
+    right: 0
 
 .color_img-tab
   .tabs-b__tab
@@ -323,5 +328,15 @@
 
 .lista-ol--cuadro__vineta 
   color: #12263F
+.bgr
+  background-color: #CEE284
+  border-radius: 10px
+  &:hover
+    background-color: #FFD3C3
+  &_2
+    background-color: #ADCE32
+    z-index: 1
+.img90
+  max-width: 90px !important
   
     
