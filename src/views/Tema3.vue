@@ -38,14 +38,12 @@
                 th Insumos elevados
             tbody
               tr(style="background-color: #F6F6F6") 
-                th 
-                  h5 Producto y producción
+                td.text-bold.text-center Producto y producción
                 td(colspan="3") 
                   p Cultivo de cebada de secano, maíz, avena, mijo, arroz, sorgo, trigo, garbanzo, caupí, cacahuete, haba, guandú, soja, mandioca, batata, patata, banana, palma y caña de azúcar. Sistema individual y múltiple de cultivo bajo patrones de cultivos y rotaciones apropiados.
               
               tr
-                th 
-                  h5 Orientación sobre mercado
+                td.text-bold.text-center Orientación sobre mercado
                 td 
                   p Producción de subsistencia
                 td 
@@ -54,8 +52,7 @@
                   P Producción comercial
                 
               tr(style="background-color: #F6F6F6") 
-                th 
-                  h5 Intensidad de capital
+                td.text-bold.text-center Intensidad de capital
                 td  
                   p Bajo
                 td  
@@ -64,8 +61,7 @@
                   P Alto
                
               tr
-                th 
-                  h5 Intensidad de trabajo
+                td.text-bold.text-center Intensidad de trabajo
                 td  
                   p Elevado, incluyendo trabajo familiar no remunerado
                 td  
@@ -74,8 +70,7 @@
                   P Bajo, trabajo familiar remunerado si se utiliza
                
               tr(style="background-color: #F6F6F6") 
-                th  
-                  h5 Fuente de energía
+                td.text-bold.text-center Fuente de energía
                 td  
                   p Trabajo manual con herramientas manuales
                 td  
@@ -84,8 +79,7 @@
                   P Mecanización total
                 
               tr
-                th  
-                  h5 Tecnología
+                td.text-bold.text-center Tecnología
                 td  
                   p Variedades tradicionales. Sin fertilizantes ni agroquímicos. Períodos de barbecho. Escasas medidas de conservación
                 td  
@@ -94,8 +88,7 @@
                   P Variedades de altos rendimientos incluyendo híbridos. Óptimo uso de fertilizantes y agroquímicos. Medidas de conservación completas
                 
               tr(style="background-color: #F6F6F6") 
-                th 
-                  h5 Infraestructura
+                td.text-bold.text-center Infraestructura
                 td  
                   p Sin accesibilidad a los mercados. Inadecuados servicios de asistencia
                 td  
@@ -104,8 +97,7 @@
                   P Accesibilidad a los mercados. Elevado nivel de los servicios de asistencia y acceso a los resultados de investigación
                
               tr
-                th  
-                  h5 Tenencia de la tierra
+                td.text-bold.text-center Tenencia de la tierra
                 td  
                   p Pequeña, fragmentada
                 td  
@@ -114,8 +106,7 @@
                   P Extensa, consolidada
                
               tr(style="background-color: #F6F6F6") 
-                th 
-                  h5 Nivel de ingresos
+                td.text-bold.text-center Nivel de ingresos
                 td  
                   p Bajo
                 td  

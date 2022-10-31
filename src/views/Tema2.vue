@@ -416,21 +416,21 @@
    
     .row.justify-content-center.mb-5
       .col-lg-4.col-lg.mb-3.mb-lg-0
-        .tarjeta.color-acento-contenido1.p-4.h-100
+        .tarjeta.color-acento-contenido1.bord.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
                 span.text-black 01.
               | La doble distancia meridiana del primer lado es igual a la proyección en x de ese lado.
       .col-lg-4.col-lg.mb-3.mb-lg-0
-        .tarjeta.color-acento-contenido1.p-4.h-100
+        .tarjeta.color-acento-contenido1.bord.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
                 span.text-black 02.
               | La doble distancia meridiana de cualquier otro lado es igual a la doble distancia meridiana del lado anterior, más la proyección en x del lado anterior, más la proyección de x del mismo lado.
       .col-lg-4.col-lg.mb-3.mb-lg-0
-        .tarjeta.color-acento-contenido1.p-4.h-100
+        .tarjeta.color-acento-contenido1.bord.p-4.h-100
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta

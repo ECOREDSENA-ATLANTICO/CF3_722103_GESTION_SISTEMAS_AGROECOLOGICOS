@@ -39,19 +39,19 @@
             caption Nota. Le Coq, J. Patrouilleau, M. Sabourin, E. y Niederle, P. (2020). Políticas públicas que promueven la agroecología y producción orgánica en América Latina.
             thead
               tr(style="background-color: #FFA686") 
-                th 
+                th(style='width:15%')
                   h4 Criterios distintivos
                 
-                th 
+                th(style='width:17%')
                   h4 Agroecología latinoamericana
                   
-                th 
+                th(style='width:12%')
                   h4 Agricultura orgánica
                   
-                th 
+                th(style='width:12%') 
                   h4 Agricultura sostenible
                   
-                th 
+                th(style='width:14%') 
                   h4 Agricultura convencional
             tbody
               tr(style="background-color: #F6F6F6") 

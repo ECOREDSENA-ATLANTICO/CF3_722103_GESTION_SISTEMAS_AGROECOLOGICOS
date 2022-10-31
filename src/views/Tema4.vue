@@ -117,33 +117,33 @@
                 th(colspan="9") Ejemplos de amenazas a la actividad agropecuaria 
             tbody
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") 
-                  h4.mb-0 Naturales
+                td(colspan="3") 
+                  .text-bold.text-center Naturales
                 td(colspan="9") 
                   p Sismos, tsunamis, erupciones volcánicas, sequías, granizadas, lluvias intensas, inundaciones, avalanchas, desbordamientos de ríos, heladas, vientos fuertes, enfermedades y plagas.
               tr 
-                th(colspan="3") 
-                  h4.mb-0 Socionaturales
+                td(colspan="3") 
+                  .text-bold.text-center Socionaturales
                 td(colspan="9") 
                   p Inundaciones, reducción de polinización, cambios en microclimas por deforestación de cuencas, degradación y pérdida de humedad del suelo por prácticas agrícolas inadecuadas, incendios por descuido, contaminación de fuentes de agua por insumos utilizados o deshechos.
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") 
-                  h4.mb-0 Tecnológicas
+                td(colspan="3") 
+                  .text-bold.text-center Tecnológicas
                 td(colspan="9") 
                   p Maquinaria y equipo, técnicas de producción, manipulación de tecnología y de desechos tóxicos y variedades de cultivos inadecuadas a las condiciones locales de producción, de mercado o que reduzcan la sostenibilidad.
               tr 
-                th(colspan="3") 
-                  h4.mb-0 Económicas y financieras
+                td(colspan="3") 
+                  .text-bold.text-center Económicas y financieras
                 td(colspan="9") 
                   p Volatilidad de precios internacionales y domésticos de productos e insumos; volatilidad de tipos de cambio; variación de la demanda doméstica e internacional; aranceles o restricciones de mercado para los productos; insuficiencia de liquidez; pérdida de patrimonio y aumentos de la tasa de interés. 
               tr(style="background-color: #F6F6F6") 
-                th(colspan="3") 
-                  h4.mb-0 Antropogénicas en la misma unidad
+                td(colspan="3") 
+                  .text-bold.text-center Antropogénicas en la misma unidad
                 td(colspan="9") 
                   p Accidentes, enfermedades y muerte, daños a terceros, tenencia informal o tierras apropiadas por terceros, pérdidas y daños a tierras, cultivos, equipo, instalaciones y materias primas por robo, entre otros
               tr 
-                th(colspan="3") 
-                  h4.mb-0 Antropogénicas en el contexto social, político e institucional
+                td(colspan="3") 
+                  .text-bold.text-center Antropogénicas en el contexto social, político e institucional
                 td(colspan="9") 
                   p Cambios en políticas, leyes y regulaciones de la agricultura y uso de la tierra y el agua; restricciones de importación de productos domésticos; disturbios, guerras, huelgas, delincuencia y debilidad del estado de derecho.
     .row.align-items-center.mb-5 
@@ -348,7 +348,7 @@
     figcaption.mb-5 Nota. FAO. (2013). Guía técnica: Medidas para la gestión del riesgo agropecuario del Ben.   
     p.mb-5 <b>Para finalizar, es importante mencionar que los Sistema de Alerta Temprana (SAT) tienen tres fases:</b>   
     .row.justify-content-center.mb-5(data-aos="zoom-in")
-      .col-9.col-lg-4.mb-3.mb-lg-0.bgt04
+      .col-12.col-md-9.col-lg-4.mb-3.mb-lg-0.bgt04
         .row.m-0
           .col-12.p-3.bgtitulo
             img(src="@/assets/curso/tema4/img23.png"  alt='Texto que describa la imagen')
@@ -356,7 +356,7 @@
               h4.text-center.mb-0 La primera fase
           .col-12.p-3.bgcontenido(style="height: 300px")
             p.m-0.ms-4 Análisis, monitoreo y elaboración de pronósticos de estados del clima; temperaturas, lluvias, vientos, radiación solar, humedad relativa y otros parámetros asociados al clima, con mucha relevancia para el desarrollo de cultivos. Con base en esta información, se podrían prever estados de alerta para crecidas, incendios y sequías.      
-      .col-9.col-lg-4.mb-3.mb-lg-0.bgt04
+      .col-12.col-md-9.col-lg-4.mb-3.mb-lg-0.bgt04
         .row.m-0
           .col-12.p-3.bgtitulo
             img(src="@/assets/curso/tema4/img24.png"  alt='Texto que describa la imagen')
@@ -364,7 +364,7 @@
               h4.text-center.mb-0 La segunda fase
           .col-12.p-3.bgcontenido(style="height: 300px")
             p Permite entregar información a nivel departamental y municipal para la toma de decisiones y el establecimiento de planes de acción.   
-      .col-9.col-lg-4.mb-3.mb-lg-0.bgt04
+      .col-12.col-md-9.col-lg-4.mb-3.mb-lg-0.bgt04
         .row.m-0
           .col-12.p-3.bgtitulo
             img(src="@/assets/curso/tema4/img25.png"  alt='Texto que describa la imagen')
