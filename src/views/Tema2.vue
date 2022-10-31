@@ -442,7 +442,7 @@
           p.ps-5 La siguiente fórmula que representa este método se muestra a continuación:
           img.ps-5.img-t(src='@/assets/curso/tema2/img30.svg', alt='').mx-aauto 
         .col-lg-5.mb-4(data-aos="fade-left")
-          figure
+          figure.d-flex.justify-content-center
             img.img-t(src='@/assets/curso/tema2/img29.svg', alt='') 
     .row.mb-5
       .col-auto.py-2.px-3.bg-c1

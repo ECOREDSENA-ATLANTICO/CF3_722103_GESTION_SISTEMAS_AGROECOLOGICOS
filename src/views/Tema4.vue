@@ -7,10 +7,10 @@
         span 4
       h1 Análisis de riesgos en agroecología
     .row.align-items-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         p El riesgo y la incertidumbre son dos factores inherentes a la actividad agropecuaria. El clima, las condiciones meteorológicas, los desastres naturales, las perturbaciones del mercado y las enfermedades son las fuentes de riesgo más comunes, sin mencionar, los riesgos asociados a la infraestructura, la logística, la situación y contexto socioeconómico y político, el cambio climático y la amplia volatilidad de los precios, vinculada con la inflación.
         p Los procesos de subsistencia de los pequeños y medianos agricultores son muy vulnerables, debido a que los productores presentan dificultades para identificar y gestionar el riesgo y no se logran beneficiar de las oportunidades de inversión, para mejorar sus negocios y a su vez fortalecer la resiliencia de sus hogares.
-      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema4/img1.svg', alt='') 
     .row.align-items-center.mb-5
