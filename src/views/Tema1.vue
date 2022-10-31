@@ -7,7 +7,7 @@
         span 1
       h1 Políticas públicas en agroecología
     .row.align-items-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-3.mb-lg-0(data-aos="fade-right")
         p En Colombia como en América Latina y el Caribe (ALC), la agroecología es vista como una de las alternativas que pueden permitir la transformación de los agroecosistemas convencionales, hacia un sistema agroalimentario más sostenible y dar respuesta a la crisis económica, social, política y ecológica ambiental.
         
         .cajon.color-acento-contenido.p-4.ps-5.color1
@@ -28,7 +28,7 @@
           p.m-0.mt-4.mx-3.mx-lg-0 Estas nuevas formas de producción que surgen en los años 70 solo contaban con el apoyo de movimientos sociales y en ocasiones por parte de organizaciones internacionales, pero a través de procesos de concertación y presión lograron que algunos gobiernos tomaran en cuenta estas propuestas, las cuales se ven reflejadas en las políticas públicas de algunos países de ALC.
         
         .col-lg-5.mb-4(data-aos="fade-left")
-          figure
+          figure.d-flex.justify-content-center
             img.img-t(src='@/assets/curso/tema1/img4.svg', alt='') 
     .row
       .col-lg-12

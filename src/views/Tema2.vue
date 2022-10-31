@@ -285,7 +285,7 @@
  
     p.mb-5 La cinta métrica es una de las herramientas más utilizadas en la topografía para la medición de distancias entre puntos. Para realizar la medición con cinta se cuenta con dos métodos, los cuales se pueden visualizar en la siguiente representación:
     .row.justify-content-center.mb-3(data-aos="zoom-in")
-      .col-12.col-lg-5.mb-3.mb-lg-0.bgt03
+      .col-12.col-lg-5.mb-5.mb-lg-0.bgt03
         .row.m-1.mb-5
           .col-12.p-3.bgtitulo(style="height: 190px")
             img.imgtop3(src='@/assets/curso/tema2/img20.svg', style="width: 130px")
