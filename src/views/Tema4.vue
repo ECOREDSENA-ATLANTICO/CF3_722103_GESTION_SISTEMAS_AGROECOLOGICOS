@@ -352,7 +352,7 @@
         .row.m-0
           .col-12.p-3.bgtitulo
             img(src="@/assets/curso/tema4/img23.png"  alt='Texto que describa la imagen')
-            .bgsly2.p-2.mt-3.mb-4.d-flex.justify-content-center
+            .bgsly2.p-2.mt-3.d-flex.justify-content-center
               h4.text-center.mb-0 La primera fase
           .col-12.p-3.bgcontenido(style="height: 300px")
             p.m-0.ms-4 Análisis, monitoreo y elaboración de pronósticos de estados del clima; temperaturas, lluvias, vientos, radiación solar, humedad relativa y otros parámetros asociados al clima, con mucha relevancia para el desarrollo de cultivos. Con base en esta información, se podrían prever estados de alerta para crecidas, incendios y sequías.      
@@ -360,7 +360,7 @@
         .row.m-0
           .col-12.p-3.bgtitulo
             img(src="@/assets/curso/tema4/img24.png"  alt='Texto que describa la imagen')
-            .bgsly2.p-2.mt-3.mb-4
+            .bgsly2.p-2.mt-3
               h4.text-center.mb-0 La segunda fase
           .col-12.p-3.bgcontenido(style="height: 300px")
             p Permite entregar información a nivel departamental y municipal para la toma de decisiones y el establecimiento de planes de acción.   
@@ -368,7 +368,7 @@
         .row.m-0
           .col-12.p-3.bgtitulo
             img(src="@/assets/curso/tema4/img25.png"  alt='Texto que describa la imagen')
-            .bgsly2.p-2.mt-3.mb-4
+            .bgsly2.p-2.mt-3
               h4.text-center.mb-0 La tercera fase
           .col-12.p-3.bgcontenido(style="height: 300px")
             p La unidad de gestión del riesgo debe informar a las comunidades a través de radiodifusoras y radiotransmisores. La información es obtenida a través de estaciones meteorológicas satelitales y estaciones convencionales ubicadas en distintos municipios. Activar este mecanismo de información y comunicación de manera oportuna permite desarrollar planes de contingencia de forma efectiva ante un determinado evento natural.   
