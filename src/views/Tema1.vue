@@ -213,7 +213,7 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img11.png', alt='')
       .col-lg-8(data-aos="fade-right")        
-        p El gobierno de Colombia a través de la Resolución 464 de 2017 expedida por el Ministerio de Agricultura y Desarrollo Rural de Colombia, ha definido dentro de las políticas públicas a la agroecología como la “Ciencia, que estudia las interacciones ecológicas de los diferentes componentes del agroecosistema, como conjunto de prácticas, busca sistemas agroalimentarios sostenibles que optimicen y estabilice la producción, y que se basen tanto en los conocimientos locales y tradicionales como en los de la ciencia moderna y como movimiento social, impulsa la multifuncionalidad y sostenibilidad de la agricultura, promueve la justicia social, nutre la identidad y la cultura, y refuerza la viabilidad económica en las zonas rurales.”(MADR, 2017).}
+        p El gobierno de Colombia a través de la Resolución 464 de 2017 expedida por el Ministerio de Agricultura y Desarrollo Rural de Colombia, ha definido dentro de las políticas públicas a la agroecología como la “Ciencia, que estudia las interacciones ecológicas de los diferentes componentes del agroecosistema, como conjunto de prácticas, busca sistemas agroalimentarios sostenibles que optimicen y estabilice la producción, y que se basen tanto en los conocimientos locales y tradicionales como en los de la ciencia moderna y como movimiento social, impulsa la multifuncionalidad y sostenibilidad de la agricultura, promueve la justicia social, nutre la identidad y la cultura, y refuerza la viabilidad económica en las zonas rurales.” (MADR, 2017).
         p <b>Lo cual resalta que la agroecología es diferente a otros enfoques del desarrollo sostenible, ya que esta:</b>
     .bg3.p-5.mb-5
       .row
@@ -261,8 +261,8 @@
       .row.justify-content-center.mb-5
         .col-lg-6
           figure
-            img(src='@/assets/curso/tema1/img16.svg', alt='Texto que describa la imagen')(data-aos="fade-right")
-      figcaption.mb-5 Nota. Organización de las Naciones Unidas para la Alimentación y Agricultura Colombia (2021). Documento propuesta de lineamientos de política pública en agroecología para Colombia. 
+            img(src='@/assets/curso/tema1/img16.svg', alt='Texto que describa la imagen')(data-aos="fade-right").mb-5
+          figcaption.mb-5 Nota. Organización de las Naciones Unidas para la Alimentación y Agricultura Colombia (2021). Documento propuesta de lineamientos de política pública en agroecología para Colombia. 
     .row.align-items-center.mb-5
       .col-lg-2(data-aos="fade-left")
         figure

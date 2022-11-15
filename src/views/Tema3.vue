@@ -18,7 +18,7 @@
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
         p El uso actual del suelo y su respectiva cobertura vegetal es de suma importancia en el momento de realizar la zonificación agroecológica, ya que es un insumo esencial para poder determinar el modelo de aptitud del territorio y orientar la planificación y diseño del sistema agroalimentario. Por consiguiente, los tipos de uso del suelo y su cobertura deben ser tenidos en cuenta en este análisis ya que estos atributos son los determinantes para la definición del uso potencial de la tierra y los requisitos para la evaluación de esta.
-        p Cabe denotar que el suelo y su cobertura pueden variar de acuerdo con parámetros ecológico-ambientales, los modelos de producción y las características productivas, de ello depende el rendimiento potencial del agroecosistema
+        p Cabe denotar que el suelo y su cobertura pueden variar de acuerdo con parámetros ecológico-ambientales, los modelos de producción y las características productivas, de ello depende el rendimiento potencial del agroecosistema.
       .col-lg-2(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema3/img2.png', alt='')

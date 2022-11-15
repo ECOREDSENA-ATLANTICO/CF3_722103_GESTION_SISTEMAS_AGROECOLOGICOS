@@ -60,8 +60,28 @@
             h4.m-0.text-center Temáticas 
           .col-12.px-0
             img(src="@/assets/curso/tema2/img6.png"  alt='Texto que describa la imagen')
-          .col-12.p-3.bgcontenido(style="height: 375px")
+          .col-12.p-3.bgcontenido(style="height: 500px")
             h4 Técnicas
+            br
+            br
+            br
+            br
+            br
+            br
+            br
+            br
+            br
+            br
+            br
+            h4 Legales
+      .col-12.col-lg-4.mb-3.mb-lg-0.bgt02
+        .row
+          .col-12.p-3.bgtitulo
+            h4.m-0.text-center Componentes
+          .col-12.px-0
+            img(src="@/assets/curso/tema2/img7.png"  alt='Texto que describa la imagen')
+          .col-12.p-3.bgcontenido(style="height: 500px")
+            
             ul.lista-ul--color
               li.m-0
                 <i class="fas fa-cog" style="color:#FFA686"></i>
@@ -78,14 +98,6 @@
                 p.m-0 <b>Socioeconómico:</b>
               p.m-0.ms-4 Clasificación de predios por área.
               p.m-0.ms-4 Avalúos del territorio. 
-      .col-12.col-lg-4.mb-3.mb-lg-0.bgt02
-        .row
-          .col-12.p-3.bgtitulo
-            h4.m-0.text-center Componentes
-          .col-12.px-0
-            img(src="@/assets/curso/tema2/img7.png"  alt='Texto que describa la imagen')
-          .col-12.p-3.bgcontenido(style="height: 375px")
-            h4 Legales
             ul.lista-ul--color
               li.m-0
                 <i class="fas fa-cog" style="color:#FFA686"></i>
@@ -302,7 +314,7 @@
               h4.text-center.mb-0 Medición en pendientes 
           .col-12.p-3.bgcontenido(style="height: 255px")
             p.ms-4 La cinta debe ser puesta sobre el terreno, respetando la pendiente. Para medir el grado de la pendiente se debe usar un nivel de mano o un clinómetro. La distancia horizontal es calculada a partir de relaciones trigonométricas. 
-            p.ms-4 de la pendiente es mayor a al 5% es necesario que la longitud medida sea menor a la longitud total de la cinta. 
+            p.ms-4 Cuando el grado de la pendiente es mayor al 5% es necesario que la longitud medida sea menor a la longitud total de la cinta. 
     p.mb-5 <b>Errores de la medición a través de método de cinta</b>
 
     .row.mb-5

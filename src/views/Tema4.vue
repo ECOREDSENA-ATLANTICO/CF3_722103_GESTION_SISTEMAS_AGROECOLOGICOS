@@ -265,7 +265,7 @@
     .row.align-items-center.mb-5
       .col-lg-12(data-aos="fade-right")
         p Con el fin de reducir los riesgos asociados a fenómenos antrópicos y/o naturales que podrían afectar la producción agrícola y pecuaria, se deben implementar y considerar algunas estrategias direccionadas hacia la mitigación y prevención, sean estructuradas o no, que permitan reducir al máximo los daños.  
-        p Los productores podrían implementar algunas de las actividades propuestas en la siguiente infografía de reducción de riesgos:      
+        p Los productores podrían implementar algunas de las actividades propuestas en el siguiente recurso de reducción de riesgos:      
     TabsB.color-acento-contenido.mb-5.color_img-tab
       .py-4.py-md-5(titulo="Agricultura" :icono="require('@/assets/curso/tema4/img16.svg')")
         .row.justify-content-center
