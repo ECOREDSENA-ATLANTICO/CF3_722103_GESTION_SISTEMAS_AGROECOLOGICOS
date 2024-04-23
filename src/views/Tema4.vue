@@ -164,7 +164,7 @@
               tr.pst(style="background-color: #FFA686") 
                 th(rowspan='2')(style="width:15%")
                 td(rowspan='2')(style="width:15%")
-                th(rowspan='2')(style="width:25%") Mecanismos encógenos a las unidades productivas 
+                th(rowspan='2')(style="width:25%") Mecanismos endógenos a las unidades productivas 
                 th(colspan='2')(style="width:45%") Mecanismos exógenos  
               tr.pst(style="background-color: #FFA686")
                 th De mercado

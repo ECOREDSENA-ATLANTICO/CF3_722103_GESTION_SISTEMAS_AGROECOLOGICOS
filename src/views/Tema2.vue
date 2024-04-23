@@ -53,73 +53,65 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           p.mb-0 #[b Tabla 2]. Temáticas técnicas y legales para la generación de un modelo de aptitud del territorio
+    
     .row.justify-content-center.mb-5(data-aos="zoom-in")
-      .col-12.col-lg-4.mb-3.mb-lg-0.bgt01
+      .col-md-4.mb-3.mb-lg-0.bgt01
         .row
           .col-12.p-3.bgtitulo
             h4.m-0.text-center Temáticas 
           .col-12.px-0
             img(src="@/assets/curso/tema2/img6.png"  alt='Texto que describa la imagen')
-          .col-12.p-3.bgcontenido(style="height: 500px")
+          .col-12.p-3.bgcontenido(style="height: 408.8px")
             h4 Técnicas
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            h4 Legales
-      .col-12.col-lg-4.mb-3.mb-lg-0.bgt02
+              ul.lista-ul--color
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 <b>Físico:</b>
+                p.m-0.ms-4 Suelos.
+                p.m-0.ms-4 Uso propuesto del suelo.
+                p.m-0.ms-4 Conflicto de uso del suelo.
+                p.m-0.ms-4 Uso principal del suelo.
+                p.m-0.ms-4 Zonificación climática.
+                p.m-0.ms-4 Precipitación.
+                p.mb-3.ms-4 Temperatura.
+                
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 <b>Socioeconómico:</b>
+                p.m-0.ms-4 Clasificación de predios por área.
+                p.m-0.ms-4 Avalúos del territorio. 
+
+      .col-md-4.mb-3.mb-lg-0.bgt02
         .row
           .col-12.p-3.bgtitulo
             h4.m-0.text-center Componentes
           .col-12.px-0
             img(src="@/assets/curso/tema2/img7.png"  alt='Texto que describa la imagen')
-          .col-12.p-3.bgcontenido(style="height: 500px")
-            
-            ul.lista-ul--color
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 <b>Físico:</b>
-              p.m-0.ms-4 Suelos.
-              p.m-0.ms-4 Uso propuesto del suelo.
-              p.m-0.ms-4 Conflicto de uso del suelo.
-              p.m-0.ms-4 Uso principal del suelo.
-              p.m-0.ms-4 Zonificación climática.
-              p.m-0.ms-4 Precipitación.
-              p.mb-3.ms-4 Temperatura.
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 <b>Socioeconómico:</b>
-              p.m-0.ms-4 Clasificación de predios por área.
-              p.m-0.ms-4 Avalúos del territorio. 
-            ul.lista-ul--color
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Paramos.
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Reserva de la sociedad civil.
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Reserva forestal protectora nacional y regional.
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Frontera agrícola.
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Proyectos ANLA.
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Zonificación para plantaciones forestales con fines comerciales.
+          .col-12.p-3.bgcontenido(style="height: 408.8px")
+            h4 Legales
+              ul.lista-ul--color
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 Páramos.
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 Reserva de la sociedad civil.
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 Reserva forestal protectora nacional y regional.
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 Frontera agrícola.
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 Proyectos ANLA.
+                li.m-0
+                  <i class="fas fa-cog" style="color:#FFA686"></i>
+                  p.m-0 Zonificación para plantaciones forestales con fines comerciales.
+
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
-        p Por medio de un álgebra de mapas, que se realiza en un SIG, se crea el modelo de aptitud del territorio, aplicando la metodología representada en la siguiente figura, la cual consiste en la calificación de las temáticas seleccionadas, de acuerdo con la guía técnica de expertos agrónomos y agroecologos, para luego realizar una superposición de capas permitiendo la tabulación de las diferentes calificaciones. Finalmente, como resultado del modelo, se obtiene un mapa de aptitud del territorio para el sistema agroalimentario. Veamos la figura:  
+        p Por medio de un álgebra de mapas, que se realiza en un SIG, se crea el modelo de aptitud del territorio, aplicando la metodología representada en la siguiente figura, la cual consiste en la calificación de las temáticas seleccionadas, de acuerdo con la guía técnica de expertos agrónomos y agroecológicos, para luego realizar una superposición de capas permitiendo la tabulación de las diferentes calificaciones. Finalmente, como resultado del modelo, se obtiene un mapa de aptitud del territorio para el sistema agroalimentario. Veamos la figura:  
       .col-lg-2(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img17.svg', alt='')
@@ -211,7 +203,9 @@
                 p.m-0 <b>Gestión de tierras.</b>
               p.m-0.ms-4 <b>a.</b> Planificación de la investigación agraria.
               p.m-0.ms-4 <b>b.</b> Transferencia de tecnología agrícola.
-              p.m-0.ms-4 <b>c.</b> Recomendaciones sobre inputs agrícolas. 
+              p.m-0.ms-4 <b>c.</b> Recomendaciones sobre 
+                span.text-italic inputs 
+                | agrícolas. 
               p.m-0.ms-4 <b>d.</b> Análisis y desarrollo de cisternas de explotación de fincas.
               p.m-0.ms-4 <b>e.</b> Evaluación del impacto ambiental.
               p.m-0.ms-4 <b>f.</b>  Control del uso de los recursos de tierras.

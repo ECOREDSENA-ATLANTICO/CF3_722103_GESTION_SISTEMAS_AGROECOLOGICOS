@@ -159,7 +159,7 @@
     p.mb-5 La agroecología desde los años 70 inicia con un proceso de fortalecimiento y expansión, el cual se describe en la siguiente infografía: 
     .row 
       .col-lg-12
-        h4 Características del proceso de fortalecimiento de la agroecología.
+        h4 Características del proceso de fortalecimiento de la agroecología
 
     .row.justify-content-evenly.align-items-lg-stretch.my-4.mb-5.m_tar-boton
       
@@ -176,10 +176,10 @@
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img7.svg')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.color4
-            h4.text-center.text-white.mb-0 Equidad genero 
+            h4.text-center.text-white.mb-0 Equidad género 
           .tarjeta-foto-hover__tarjeta.bg_color3.d-flex.align-items-center.justify-content-center
             .p-5.p-lg-2
-              p.text-bold.text-center Equidad genero 
+              p.text-bold.text-center Equidad género 
               p.m-0.text-center.t_text El carácter político de la agroecología, cuyos modelos más allá de recoger reivindicación, integra propuestas de desarrollo socio económico y cultural, con profunda incidencia de la apuesta por la equidad de género, la complementariedad generacional y el diálogo intercultural étnico.
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
@@ -194,10 +194,10 @@
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img9.svg')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.color4
-            h4.text-center.text-white.mb-0 Agroecologia
+            h4.text-center.text-white.mb-0 Agroecología
           .tarjeta-foto-hover__tarjeta.bg_color3.d-flex.align-items-center.justify-content-center
             .p-4
-              p.text-bold.text-center Agroecologia
+              p.text-bold.text-center Agroecología
               p.m-0.text-center.t_text Inclusión de las ciencias sociales en las aproximaciones a la agroecología, robusteciendo su carácter holístico y resaltando componentes económicos, socioculturales y políticos.
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
