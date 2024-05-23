@@ -258,6 +258,12 @@ export default {
         cargo: 'Líder del equipo',
         centro: 'Dirección General',
       },
+      {
+        nombre: 'Miguel de Jesús Paredes Maestre',
+        cargo: 'Responsable de línea de producción',
+        centro:
+          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+      },
     ],
     contenidoInstruccional: [
       {
@@ -296,10 +302,10 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'María Natalia Maldonado Delgado',
+        nombre: 'Antonio Vecino Valero',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
       {
         nombre: 'Zuleidy María Ruíz Torres',
@@ -349,16 +355,34 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Sandra Milena Triana Pinto',
-        cargo: 'Desarrollo front-end',
+        nombre: 'Liborio De Jesús Castañeda Valencia',
+        cargo: 'Desarrollador full-stack junior',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
       {
         nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Evaluación de contenidos inclusivos y accesibles',
+        centro:
+          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+      },
+      {
+        nombre: 'Luz Karime Amaya Cabra',
+        cargo: 'Evaluación de contenidos inclusivos y accesibles',
+        centro:
+          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+      },
+      {
+        nombre: 'Juan Carlos Cardona Acosta',
+        cargo: 'Validación de recursos digitales',
+        centro:
+          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
     ],
     gestoresRepositorio: [
