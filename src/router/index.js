@@ -63,7 +63,8 @@ const router = new VueRouter({
       name: 'glosario',
       component: () =>
         import(
-          /* webpackChunkName: "glosario" */ '../../node_modules/ecored-base-pkg/src/views/Glosario.vue'
+          /* webpackChunkName: "glosario" */
+          '../../node_modules/ecored-base-pkg/src/views/Glosario.vue'
         ),
     },
     {
@@ -71,7 +72,8 @@ const router = new VueRouter({
       name: 'complementario',
       component: () =>
         import(
-          /* webpackChunkName: "comple" */ '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
+          /* webpackChunkName: "comple" */
+          '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
         ),
     },
     {
@@ -79,7 +81,8 @@ const router = new VueRouter({
       name: 'referencias',
       component: () =>
         import(
-          /* webpackChunkName: "referencias" */ '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
+          /* webpackChunkName: "referencias" */
+          '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
         ),
     },
     {
@@ -93,7 +96,8 @@ const router = new VueRouter({
       name: 'creditos',
       component: () =>
         import(
-          /* webpackChunkName: "creditos" */ '../../node_modules/ecored-base-pkg/src/views/Creditos.vue'
+          /* webpackChunkName: "creditos" */
+          '../views/Creditos.vue'
         ),
     },
   ],

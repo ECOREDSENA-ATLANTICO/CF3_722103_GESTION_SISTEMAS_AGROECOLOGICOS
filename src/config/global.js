@@ -361,7 +361,7 @@ export default {
           'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
     ],
-    gestoresRepositorio: [
+    validacionRecursoEducativo: [
       {
         nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
