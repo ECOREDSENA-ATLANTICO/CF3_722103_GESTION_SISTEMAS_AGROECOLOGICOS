@@ -254,7 +254,7 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Líder del equipo',
         centro: 'Dirección General',
       },
@@ -385,13 +385,13 @@ export default {
           'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
     ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-    ],
+    // gestoresRepositorio: [
+    //   {
+    //     nombre: 'Milady Tatiana Villamil Castellanos',
+    //     cargo: 'Validación y vinculación en plataforma LMS',
+    //     centro: 'Centro de Comercio y Servicios - Regional Tolima',
+    //   },
+    // ],
   },
   // creditosInicio: [
   //   {
