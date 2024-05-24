@@ -360,6 +360,8 @@ export default {
         centro:
           'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
+    ],
+    gestoresRepositorio: [
       {
         nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
@@ -385,13 +387,6 @@ export default {
           'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
     ],
-    // gestoresRepositorio: [
-    //   {
-    //     nombre: 'Milady Tatiana Villamil Castellanos',
-    //     cargo: 'Validación y vinculación en plataforma LMS',
-    //     centro: 'Centro de Comercio y Servicios - Regional Tolima',
-    //   },
-    // ],
   },
   // creditosInicio: [
   //   {
