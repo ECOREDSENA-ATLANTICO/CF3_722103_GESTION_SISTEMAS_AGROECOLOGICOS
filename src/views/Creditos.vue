@@ -9,7 +9,7 @@
       )
         .creditos__titulo {{configTitulos[creditoKey]}}
         table
-          tbody
+          tbody(v-if="creditoKey !== 'centroFormacion'")
             tr(
               v-for="(item, idx) of creditosData[creditoKey]" 
               :key="creditoKey+idx"
@@ -17,6 +17,13 @@
               td.text-bold(colspan='2' v-html="renderText(item.nombre)")
               td(colspan='2' v-html="renderText(item.cargo)")
               td(colspan='3' v-html="renderText(item.centro)")
+          tbody(v-else)
+            tr(
+                v-for="(item, idx) of creditosData[creditoKey]" 
+                :key="creditoKey+idx"
+              )
+                td(colspan='4' v-html="renderText(item.centro)")
+                td(colspan='3' v-html="renderText(item.regional)")
     .row.mb-4.mb-md-5
       .col-md-6.mb-4.mb-md-0
         .tarjeta.credito.p-3.text-center.h-100
@@ -54,6 +61,7 @@ export default {
       desarrolloProducto:
         'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       validacionRecursoEducativo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      centroFormacion: 'CENTRO DE FORMACIÓN',
     },
   }),
   computed: {
