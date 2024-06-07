@@ -387,13 +387,6 @@ export default {
           'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
       },
     ],
-    centroFormacion: [
-      {
-        centro:
-          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
-        regional: 'Regional Atlántico',
-      },
-    ],
   },
   // creditosInicio: [
   //   {

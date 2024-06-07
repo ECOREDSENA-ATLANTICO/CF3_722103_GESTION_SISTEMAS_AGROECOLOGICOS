@@ -97,7 +97,7 @@ const router = new VueRouter({
       component: () =>
         import(
           /* webpackChunkName: "creditos" */
-          '../views/Creditos.vue'
+          '../../node_modules/ecored-base-pkg/src/views/Creditos.vue'
         ),
     },
   ],
