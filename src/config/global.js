@@ -251,142 +251,160 @@ export default {
         'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf',
     },
   ],
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-      {
-        nombre: 'Miguel de Jesús Paredes Maestre',
-        cargo: 'Responsable de línea de producción',
-        centro:
-          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable equipo desarrollo curricular',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Ingrid Natalia Lozano Muñoz',
-        cargo: 'Experta temática',
-        centro: 'Centro Agropecuario La Granja - Regional Tolima',
-      },
-      {
-        nombre: 'Paola Alexandra Moya Peralta',
-        cargo: 'Diseñadora instruccional',
-        centro:
-          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Asesor metodológico ',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-      },
-      {
-        nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Corrector de estilo',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Antonio Vecino Valero',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-      },
-      {
-        nombre: 'Zuleidy María Ruíz Torres',
-        cargo: 'Revisión de guion audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'María Carolina Tamayo López',
-        cargo: 'Locución',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Lina Marcela Pérez Manchego',
-        cargo: 'Ilustración',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Wilson Andrés Arenales Cáceres',
-        cargo: 'Validación Ilustración',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'John Jairo Arciniegas González',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Erika Viviana Sandoval Roja',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Ernesto Navarro Jaimes',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodríguez Rodríguez',
-        cargo: 'Validación audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Liborio De Jesús Castañeda Valencia',
-        cargo: 'Desarrollador full-stack junior',
-        centro:
-          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-      },
-    ],
-    validacionRecursoEducativo: [
-      {
-        nombre: 'Yenny Patricia Ulloa Villamizar',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Carolina Coca Salazar',
-        cargo: 'Evaluación de contenidos inclusivos y accesibles',
-        centro:
-          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-      },
-      {
-        nombre: 'Luz Karime Amaya Cabra',
-        cargo: 'Evaluación de contenidos inclusivos y accesibles',
-        centro:
-          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-      },
-      {
-        nombre: 'Juan Carlos Cardona Acosta',
-        cargo: 'Validación de recursos digitales',
-        centro:
-          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-      },
-    ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Líder del equipo',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable equipo desarrollo curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ingrid Natalia Lozano Muñoz',
+          cargo: 'Experta temática',
+          centro: 'Centro Agropecuario La Granja - Regional Tolima',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor metodológico ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrector de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Francisco José Lizcano Reyes',
+          cargo: 'Responsable del equipo',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Antonio Vecino Valero',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Revisión de guion audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Ilustración',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Validación Ilustración',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'John Jairo Arciniegas González',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Erika Viviana Sandoval Roja',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Validación audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Liborio De Jesús Castañeda Valencia',
+          cargo: 'Desarrollador full-stack junior',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Yenny Patricia Ulloa Villamizar',
+          cargo: 'Validación de diseño y contenido',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+        },
+        {
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validación de recursos digitales',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
   // creditosInicio: [
   //   {
