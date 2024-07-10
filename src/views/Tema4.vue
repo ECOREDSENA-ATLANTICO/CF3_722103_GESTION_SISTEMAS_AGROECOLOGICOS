@@ -23,7 +23,7 @@
           p.m-0 Es importante mencionar algunos como planes de desarrollo, planes maestros, plan de gestión de los recursos hídricos, recreación y turismo, así como instrumentos de planificación, como los de ordenamiento territorial, zonificación ambiental y uso de la tierra.
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 4.1. Tipos de riesgos
+        h2 4.1. Tipos de riesgo
     .row.align-items-center.mb-5
       .col-lg-12(data-aos="fade-right")
         p La gestión de riesgos comienza con la identificación de las amenazas y vulnerabilidades asociadas al entorno natural y de las sociedades. Las amenazas están relacionadas con factores exógenos a la infraestructura pública y privada, población, sociedad y unidades de producción, las cuales ponen en riesgo la funcionalidad y estabilidad de las unidades funcionales del territorio. En el siguiente video se puede profundizar sobre las amenazas: 
@@ -145,7 +145,7 @@
                 td(colspan="3") 
                   .text-bold.text-center Antropogénicas en el contexto social, político e institucional
                 td(colspan="9") 
-                  p Cambios en políticas, leyes y regulaciones de la agricultura y uso de la tierra y el agua; restricciones de importación de productos domésticos; disturbios, guerras, huelgas, delincuencia y debilidad del estado de derecho.
+                  p Cambios en políticas, leyes y regulaciones de la agricultura y uso de la tierra y el agua; restricciones de importación de productos domésticos; disturbios, guerras, huelgas, delincuencia y debilidad del Estado de derecho.
     .row.align-items-center.mb-5 
       .col-lg-7(data-aos="fade-right")
         p.m-0 La evaluación de la vulnerabilidad en el sector agropecuario debe integrar el análisis de la ubicación de las áreas en el uso del suelo, a su vez debe integrar los incentivos para la actividad, su participación en la producción, el impacto en los ingresos, sostenibilidad, equidad y la política pública. El conocimiento de la población, su control y acceso a la información y herramientas tecnológicas, es clave para definir pronósticos de precios, del clima y de la demanda, que condicionan la resiliencia de la actividad ante desastres y su éxito. La evolución de las relaciones sociales y económicas en ambientes rurales condiciona la heterogeneidad estructural, los sistemas productivos, el estado del capital social en términos de educación y salud, la distribución de la riqueza, la seguridad alimentaria, la emigración, la feminización de la pobreza y el flujo de remesas. El acceso a estos recursos en zonas rurales puede condicionar la capacidad de recuperación. La disponibilidad de servicios financieros (depósitos, créditos y seguros) son elementos determinantes de la resiliencia ante situaciones extremas. 
@@ -344,9 +344,9 @@
       .row.justify-content-center.align-items-center
         .col-lg-10
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema4/img22.svg', alt='') 
-    figcaption.mb-5 Nota. FAO. (2013). Guía técnica: Medidas para la gestión del riesgo agropecuario del Ben.   
-    p.mb-5 <b>Para finalizar, es importante mencionar que los Sistema de Alerta Temprana (SAT) tienen tres fases:</b>   
+            img.img-t.m-auto(src='@/assets/curso/tema4/img22.svg', alt='Explicamos la estructura del sistema de alerta temprana Concejo municipal Alcaldía municipal Organizaciones de apoyo Oficial mayor técnico Unidad de gestión de riesgo Sistema de alerta temprana Comité interinstitucional de reducción de riesgo (CIRR), implementación de medidas de mitigación estructurada y no estructurada Oficial mayor técnico Reducción de riesgos, desarrollo sostenible') 
+    figcaption.mb-5 Nota. FAO. (2013). Guía técnica: Medidas para la gestión del riesgo agropecuario del Beni.   
+    p.mb-5 <b>Para finalizar, es importante mencionar que los Sistemas de Alerta Temprana (SAT) tienen tres fases:</b>   
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-12.col-md-9.col-lg-4.mb-3.mb-lg-0.bgt04
         .row.m-0

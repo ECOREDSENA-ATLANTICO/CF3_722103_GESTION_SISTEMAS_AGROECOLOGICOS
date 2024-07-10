@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la gráfica se presenta el mapa conceptual que sintetiza el componente formativo. Diagnóstico del agroecosistema así: políticas públicas, análisis y gestión de riesgos, cartografía y metodologías topográficas.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -14,7 +14,7 @@
           p.m-0 Gracias a diversos movimientos sociales que impulsan esta nueva forma de producción, se han podido conformar alianzas que inciden en las políticas públicas de los países en ALC. Sin embargo, la implementación de las políticas que promueven la agroecología, así como los impactos que genera esta forma de producción depende del contexto político-institucional específico de cada país.
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img1.png', alt='')  
+          img.img-t.m-auto(src='@/assets/curso/tema1/img1.png', alt='En ALC y en Colombia, la agricultura se basa en: 1. El uso intensivo de agroinsumos sintéticos. 2. La alta demanda de mano de obra subcontratada asalariada. 3. La promoción de exportaciones. Ha sido durante mucho tiempo el único objeto de las políticas públicas. Este modelo ha sido practicado sin un marco legal fuerte, ha generado impactos negativos en el medio ambiente, en la equidad social y en la salud pública.')  
     .bg1.px-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-10.mb-5
@@ -58,7 +58,7 @@
                 th 
                   h5 Tipo de finca agrícola
                 td
-                  p Fincas familiares (llamadas familiares,<br> campesinas, indígenas)
+                  p Fincas familiares (llamadas familiares, campesinas, indígenas)
                 td
                   P Todos los tipos
                 td
@@ -146,15 +146,26 @@
                 th 
                   h5 Factores principales que contribuyen a la promoción del modelo
                 td 
-                  p <b>a</b> Políticas públicas impulsadas por movimientos sociales.
-                  p <b>b</b> Demanda consumida a través de circuitos cortos, o programas de compra por audiencias preferenciales.
+                  ul.fa-ul
+                    li.mb-3
+                      i.fa-li.fa A.
+                      | Políticas públicas impulsadas por movimientos sociales.
+                    li
+                      i.fa-li.fa B.
+                      | Demanda consumida a través de circuitos cortos, o programas de compra por audiencias preferenciales.
                 td 
-                  p <b>a</b> Demanda del consumidor de productos orgánicos certificados.
-                  p <b>b</b> Políticas públicas.
+                  ul.fa-ul
+                    li.mb-3
+                      i.fa-li.fa A.
+                      | Demanda del consumidor de productos orgánicos certificados.
+                    li
+                      i.fa-li.fa B.
+                      | Políticas públicas.
                 td 
                   P Políticas públicas de incentivos para adoptar prácticas agrícolas específicas.
                 td 
                   P Políticas agrícolas y comerciales (acuerdos de libre comercio).
+
           
     p.mb-5 La agroecología desde los años 70 inicia con un proceso de fortalecimiento y expansión, el cual se describe en la siguiente infografía: 
     .row 
@@ -180,7 +191,7 @@
           .tarjeta-foto-hover__tarjeta.bg_color3.d-flex.align-items-center.justify-content-center
             .p-5.p-lg-2
               p.text-bold.text-center Equidad género 
-              p.m-0.text-center.t_text El carácter político de la agroecología, cuyos modelos más allá de recoger reivindicación, integra propuestas de desarrollo socio económico y cultural, con profunda incidencia de la apuesta por la equidad de género, la complementariedad generacional y el diálogo intercultural étnico.
+              p.m-0.text-center.t_text El carácter político de la agroecología, cuyos modelos más allá de recoger reivindicación, integra propuestas de desarrollo socioeconómico y cultural, con profunda incidencia de la apuesta por la equidad de género, la complementariedad generacional y el diálogo intercultural étnico.
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img8.svg')
@@ -222,7 +233,7 @@
             img.img-t.m-auto(src='@/assets/curso/tema1/img12.png', alt='')
       .row.justify-content-center
         .col-lg-8
-          p “Se basa en procesos territoriales y que parten desde la base, lo que ayuda a dar soluciones contextualizadas a problemas conocimientos, combinando la ciencia con los conocimientos tradicionales y prácticas locales de los productores”, evitando así la dependencia de insumos externos y favoreciendo la autonomía y la viabilidad económica de las personas que se dedican a la agricultura campesina, familiar y comunitaria. Además, la agroecología tiene un carácter transformativo, pues busca transformar los sistemas alimentarios y agrícolas abordando las causas profundas de los problemas de forma integrada y aportando soluciones holísticas y a largo plazo” <b>(FAO, 2018:2-10)</b>.
+          p “Se basa en procesos territoriales y que parten desde la base, lo que ayuda a dar soluciones contextualizadas a problemas conocimientos, combinando la ciencia con los conocimientos tradicionales y prácticas locales de los productores, evitando así la dependencia de insumos externos y favoreciendo la autonomía y la viabilidad económica de las personas que se dedican a la agricultura campesina, familiar y comunitaria. Además, la agroecología tiene un carácter transformativo, pues busca transformar los sistemas alimentarios y agrícolas abordando las causas profundas de los problemas de forma integrada y aportando soluciones holísticas y a largo plazo” <b>(FAO, 2018:2-10)</b>.
         .col-lg-3
           figure
             img.img-t.m-auto(src='@/assets/curso/tema1/img13.png', alt='')
@@ -234,7 +245,7 @@
       .row.justify-content-center.mb-5
         .col-lg-12
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema1/img14.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema1/img14.svg', alt='La evolución de la agroecología ha crecido a través de los años, se muestra línea de tiempo desde 1930 hasta 2010, teniendo en cuenta las políticas para la agroecología, la agroecología como movimiento social, la agroecología como conjunto de prácticas y la agroecología como disciplina científica. La evolución de la agroecología, teniendo en cuenta las variables de: escala/dimensión, sistema alimentario, explotación agrícola, agroecosistema, parcela, campo, disciplinas, agrícola ambiental, política, economía, social y cultural')
           figcaption Nota. Organización de las Naciones Unidas para la Alimentación y Agricultura Colombia (2021). Documento propuesta de lineamientos de política pública en agroecología para Colombia.
     p.mb-5 El marco normativo utilizado en Colombia relacionado con la agroecología está basado en el desarrollo conceptual y evolución de la agroecología y sin duda de sus diferentes enfoques. Asimismo, está conformado por normativa del ámbito internacional y nacional en las cuales se resalta la relación de la agroecología con la Agricultura Campesina, Familiar y Comunitaria (ACFC) y la perspectiva de género.
 
@@ -261,7 +272,7 @@
       .row.justify-content-center.mb-5
         .col-lg-6
           figure
-            img(src='@/assets/curso/tema1/img16.svg', alt='Texto que describa la imagen')(data-aos="fade-right").mb-5
+            img(src='@/assets/curso/tema1/img16.svg', alt='Enfoques de los lineamientos de política pública en agroecología en Colombia: 1. Enfoque territorial. 2. Enfoque diferencial. 3. Enfoque participativo. 4. Enfoque intersectorial. 5. Enfoque multidimensional. 6. Enfoque de sostenibilidad.')(data-aos="fade-right").mb-5
           figcaption.mb-5 Nota. Organización de las Naciones Unidas para la Alimentación y Agricultura Colombia (2021). Documento propuesta de lineamientos de política pública en agroecología para Colombia. 
     .row.align-items-center.mb-5
       .col-lg-2(data-aos="fade-left")
@@ -275,7 +286,7 @@
     .row.justify-content-center.mb-3
       .col-lg-12
         figure
-          img(src='@/assets/curso/tema1/img18.svg', alt='Texto que describa la imagen')(data-aos="fade-right")
+          img(src='@/assets/curso/tema1/img18.svg', alt='Instrumentos de política relacionados con los ejes estratégicos de los lineamientos de política pública en agroecología. Eje 1. Producción agroecológica y financiamiento. Eje 2. Comercialización y consumo. Eje 3. Formación, extensión e investigación. Eje 4. Biodiversidad y cambio climático. Eje 5. Gobernanza, equidad de género y juventud. Los instrumentos relacionados ODS(2015-2030), Ley 1876 de 2017-SNIA, Resolución 464 de 2017-ACFC, PECTIA (2017-2027), CONPES 3934 DE 2018 Crecimiento verde, Ley 1931  de 2018 -cambio climático, Res.006 de 2020 Plan Nacional Comercialización ACFC, PND Colombia (2018-2022),acuerdos de paz (2016) punto1:RRI.')(data-aos="fade-right")
     figcaption.mb-5 Nota. Organización de las Naciones Unidas para la Alimentación y Agricultura Colombia (2021). Documento propuesta de lineamientos de política pública en agroecología para Colombia.
     .row.justify-content-center
       .col-lg-12

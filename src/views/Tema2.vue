@@ -12,7 +12,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema2/img1.png', alt='') 
       .col-lg-8(data-aos="fade-right")
         .cajon.color-primario.p-4.ps-5.color2.mb-3
-          p.m-0 <b>La cartografía es una de las herramientas que permite realizar la caracterización del territorio y de la unidad productiva</b>, con la finalidad de generar un modelo de evaluación cuantitativa y cualitativa de la aptitud del territorio por medio de una superposición de variables, que son analizadas a través de <em>softwares</em> abiertos o licenciados que aplican sistemas de información geográfica (SIG).
+          p.m-0 <b>La cartografía es una de las herramientas que permite realizar la caracterización del territorio y de la unidad productiva</b>, con la finalidad de generar un modelo de evaluación cuantitativa y cualitativa de la aptitud del territorio por medio de una superposición de variables, que son analizadas a través de <em>softwar</em> abierto o licenciado que aplica sistemas de información geográfica (SIG).
       
         p Los SIG son herramientas que permiten la modelación, administración, visualización de las características del territorio y que generan salidas gráficas que son necesarias para poder planificar y diseñar el territorio, en este caso el sistema agroalimentario. El SIG es el instrumento fundamental para caracterizar el territorio y tomar decisiones en torno a su gestión.
     p.mb-5 <b>Para la generación del modelo de aptitud del territorio, la planeación y diseño agroecológico del sistema agroalimentario, es necesario realizar:</b>          
@@ -124,7 +124,7 @@
             span Metodología para la creación del modelo de aptitud del territorio
         .col-lg-10.mb-5
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema2/img8.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema2/img8.svg', alt='Se relaciona la creación del modelo de aptitud del territorio. El modelo de aptitud del territorio inicia con la elección de temáticas, la calificación de las variables, la superposición de capas para dar como resultado el mapa de áreas aptas; ya sea aptitud alta, aptitud media, aptitud baja y zonas de exclusión. Elección de temáticas más calificación de las variables más superposición de capas es igual a mapa de áreas aptas.')
     .row.align-items-center.mb-5
       .col-lg-8(data-aos="fade-right")
         p <b>Se debe tener presente que los mapas de las temáticas técnicas y legales para la generación de un modelo de aptitud del territorio deben ser analizadas bajo el mismo sistema de coordenadas y escalas.</b>
@@ -151,66 +151,16 @@
           img.img-t.m-auto(src='@/assets/curso/tema2/img12.svg', style="width: 100px")
           .tarjeta.color-acento-contenido1
             .p-4
-              p.m-0 Evaluación de la aptitud del territorio incluyendo el cálculo de la cosecha máxima posibles y la comparación entre limitaciones y requerimientos.
+              p.m-0 Evaluación de la aptitud del territorio incluyendo el cálculo de la cosecha máxima posible y la comparación entre limitaciones y requerimientos.
     p.mb-5 <b>La zonificación agroecológica se fundamenta en el siguiente marco conceptual:</b>
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
-      .col-lg-10.mb-5
+      .col-lg-10.mb-3
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-5
           h5 Figura 5.
           span Marco conceptual de la zonificación agroecológica
-      .col-12.col-lg-5.mb-3.mb-lg-0.bgt03
-        .row.m-1
-          .col-12.p-3.bgtitulo
-            img.imgtop(src="@/assets/curso/tema2/img13.png"  alt='Texto que describa la imagen')
-            .bgsly3.p-2.mt-3.mb-4.d-flex.justify-content-center
-              h4.text-center.mb-0 Aplicaciones básicas
-          .col-12.p-3.bgcontenido(style="height: 385px")
-            ul.lista-ul--color
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 <b>Entradas</b>
-              p.m-0.ms-4 Inventario/base de datos.
-              p.m-0.ms-4 Recursos de tierras.
-              p.m-0.ms-4 Tipos de uso de tierras.
-              p.m-0.ms-4 <b>Procesamiento de datos</b>
-              p.m-0.ms-4 Modelos
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 <b>Resultados</b>
-              p.m-0.ms-4 Inventario de recursos de tierras.
-              p.m-0.ms-4 Mapas de zonas agro-ecológicas.
-              p.m-0.ms-4 Aptitud de tierras: clases de aptitud, rendimientos potenciales.
-              
-      .col-12.col-lg-5.mb-3.mb-lg-0.bgt03
-        .row.m-0
-          .col-12.p-3.bgtitulo
-            img.imgtop1(src="@/assets/curso/tema2/img14.png"  alt='Texto que describa la imagen')
-            .bgsly3.p-2.mt-3.mb-4
-              h4.text-center.mb-0 Aplicaciones avanzadas
-          .col-12.p-3.bgcontenido
-            ul.lista-ul--color
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 <b>Productividad potencial de tierras.</b>
-              p.m-0.ms-4 <b>a.</b> Estimación de áreas cultivables.
-              p.m-0.ms-4 <b>b.</b> Capacidad de sostenimiento de la población.
-              p.m-0.ms-4 <b>c.</b> Planificación de usos de tierras.
-              p.m-0.ms-4 <b>d.</b> Evaluación de riesgo de degradación de tierras.
-              p.m-0.ms-4 <b>e.</b> Evaluación de forraje para ganadería.
-              li.m-0
-                <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 <b>Gestión de tierras.</b>
-              p.m-0.ms-4 <b>a.</b> Planificación de la investigación agraria.
-              p.m-0.ms-4 <b>b.</b> Transferencia de tecnología agrícola.
-              p.m-0.ms-4 <b>c.</b> Recomendaciones sobre 
-                span.text-italic inputs 
-                | agrícolas. 
-              p.m-0.ms-4 <b>d.</b> Análisis y desarrollo de cisternas de explotación de fincas.
-              p.m-0.ms-4 <b>e.</b> Evaluación del impacto ambiental.
-              p.m-0.ms-4 <b>f.</b>  Control del uso de los recursos de tierras.
-              p.m-0.ms-4 <b>g.</b> Evaluación del impacto de cambio climático. 
       .col-lg-10.m-0
+        img(src="@/assets/curso/tema2/img37.svg" alt='Aplicaciones básicas: Entradas  Inventario/base de datos.  Recursos de tierras.  Tipos de uso de tierras. Procesamiento de datos  Modelos Resultados  Inventario de recursos de tierras.  Mapas de zonas agro-ecológicas.  Aptitud de tierras: clases de aptitud, rendimientos potenciales Aplicaciones avanzadas: Productividad potencial de tierras. a. Estimación de áreas cultivables. b. Capacidad de sostenimiento de la población. c. Planificación de usos de tierras. d. Evaluación de riesgo de degradación de tierras. e. Evaluación de forraje para ganadería. Gestión de tierras. a. Planificación de la investigación agraria. b. Transferencia de tecnología agrícola. c. Recomendaciones sobre inputs agrícolas. d. Análisis y desarrollo de cisternas de explotación de fincas. e. Evaluación del impacto ambiental. f. Control del uso de los recursos de tierras. g. Evaluación del impacto de cambio climático.').mb-3
         figcaption Nota. FAO. (1997). Zonificación agro-ecológica. Guía general. 
     .row.justify-content-center
       .col-lg-12
@@ -229,14 +179,14 @@
                     i.fas.fa-link
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 2.1. Cálculos de área
+        h2 2.1. Cálculo de área
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
         p La caracterización precisa de la unidad agroecológica es la base fundamental para realizar el diagnóstico del estado actual del agroecosistema y con ello poder identificar las características específicas de este. Asimismo, este diagnóstico es esencial para la planificación y diseño del sistema agroalimentario con el fin de disminuir los riesgos de tener bajos índices de producción y eficiencia asociados al proceso productivo.
         p <b>La medición de la unidad agroecológica se puede realizar a través de la aplicación de metodologías topográficas como los levantamientos topográficos; en la siguiente infografía se muestra qué se logra:</b>
       .col-lg-2(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img15.svg', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema2/img15.svg', alt='1. Realizar mediciones de área. 2. Localizar y marcar los límites del agroecosistema. 3. Obtener información de la elevación. 4. Distancias y curvas de nivel que permitan proyección de los sistemas de riego y drenaje. 5. La orientación del agua para el sistema agroalimentario. 6. La orientación y replanteo de las plantaciones y la conservación del suelo, entre otras actividades.')
     .bg1
       .row.mb-5.py-5
         .col-12.col-lg-9
@@ -257,7 +207,7 @@
           span Área horizontal y corte transversal del área
       .col-lg-10.mb-5
         figure.mb-3
-          img.img-t.m-auto(src='@/assets/curso/tema2/img18.svg', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema2/img18.svg', alt='Se muestra la grafica de un área horizontal y de un corte transversal.')
         figcaption Nota. FAO (s.f.). 10. Medición de áreas
     .row.align-items-center.mb-5
       .col-lg-8(data-aos="fade-right")
@@ -308,7 +258,7 @@
               h4.text-center.mb-0 Medición en pendientes 
           .col-12.p-3.bgcontenido(style="height: 255px")
             p.ms-4 La cinta debe ser puesta sobre el terreno, respetando la pendiente. Para medir el grado de la pendiente se debe usar un nivel de mano o un clinómetro. La distancia horizontal es calculada a partir de relaciones trigonométricas. 
-            p.ms-4 Cuando el grado de la pendiente es mayor al 5% es necesario que la longitud medida sea menor a la longitud total de la cinta. 
+            p.ms-4 Cuando el grado de la pendiente es mayor al 5 % es necesario que la longitud medida sea menor a la longitud total de la cinta. 
     p.mb-5 <b>Errores de la medición a través de método de cinta</b>
 
     .row.mb-5
@@ -397,7 +347,7 @@
             .row.justify-content-center
               .col-lg-7
                 figure
-                  img.img-t.m-auto(src='@/assets/curso/tema2/img27.svg', alt='')
+                  img.img-t.m-auto(src='@/assets/curso/tema2/img27.svg', alt='La formula que representa este método se muestra a continuación.')
         .row.justify-content-center
           .col-lg-12
             .tarjeta.color-primario.p-3.mb-5
@@ -483,7 +433,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Enlace <em>web</em>
-                  p.text-small Para ampliar la información relacionada con los métodos de medición de áreas diríjase al siguiente enlace web dela FAO:  
+                  p.text-small Para ampliar la información relacionada con los métodos de medición de áreas diríjase al siguiente enlace web de la FAO:  
                 .col-sm-auto
                   a.boton.color-acento-botones.me-3.mg4(href="https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6707s/x6707s10.htm" target="_blank").mb-0                    
                     span Enlace
@@ -529,11 +479,11 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-5
           h5 Figura 7.
           span Metodología de zonificación agroecológica      
-    .bg3.p-5.mb-4
+    .bg3.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-10
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema2/img35.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema2/img35.svg', alt='Actividad 1. Inventario de usos de tierras: Tipos de utilización de tierras, características y requerimientos de adaptabilidad de los cultivos. Actividad 2. Inventario de recursos de tierras: suelos y fisiología, clima, liso actual y cubierta vegetal, límites administrativos, celdas agro-ecológicas; características, cualidades, zonas agroecológicas. Actividad 3. Rendimientos agroeconómicos potenciales, clases de aptitud de tierras, áreas potenciales, rendimiento y producción.')
 
 </template>
 

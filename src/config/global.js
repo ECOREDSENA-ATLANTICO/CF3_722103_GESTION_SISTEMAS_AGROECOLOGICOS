@@ -180,7 +180,7 @@ export default {
     {
       tema: 'Análisis de riesgos en agroecología',
       referencia:
-        'Unidad de Planificación Rural Agropecuaria - UPRA. (2021). Podcast: la cultura de la gestión de riesgos y el aseguramiento. Upra Planificamos el campo',
+        'Unidad de Planificación Rural Agropecuaria - UPRA. (2021). Podcast: la cultura de la gestión de riesgos y el aseguramiento. UPRA Planificamos el campo',
       tipo: 'Podcasts',
       link: 'https://open.spotify.com/episode/3U5Xld67yzy10Idx0O9xpU',
     },
@@ -251,7 +251,7 @@ export default {
     },
     {
       referencia:
-        'Resolución 464 de 2017 [Ministerio de Agricultura y Desarrollo rural]. Por medio de la cual se adoptan los Lineamientos Estratégicos de Política Pública para la Agricultura Campesina, Familiar y Comunitaria.',
+        'Resolución 464 de 2017 [Ministerio de Agricultura y Desarrollo rural]. Por la cual se adoptan los Lineamientos Estratégicos de Política Pública para la Agricultura Campesina, Familiar y Comunitaria.',
       link:
         'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf',
     },
