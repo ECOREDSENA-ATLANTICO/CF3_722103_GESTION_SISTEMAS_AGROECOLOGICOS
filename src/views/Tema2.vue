@@ -12,7 +12,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema2/img1.png', alt='') 
       .col-lg-8(data-aos="fade-right")
         .cajon.color-primario.p-4.ps-5.color2.mb-3
-          p.m-0 <b>La cartografía es una de las herramientas que permite realizar la caracterización del territorio y de la unidad productiva</b>, con la finalidad de generar un modelo de evaluación cuantitativa y cualitativa de la aptitud del territorio por medio de una superposición de variables, que son analizadas a través de <em>softwar</em> abierto o licenciado que aplica sistemas de información geográfica (SIG).
+          p.m-0 <b>La cartografía es una de las herramientas que permite realizar la caracterización del territorio y de la unidad productiva</b>, con la finalidad de generar un modelo de evaluación cuantitativa y cualitativa de la aptitud del territorio por medio de una superposición de variables, que son analizadas a través de <em>software</em> abierto o licenciado que aplica sistemas de información geográfica (SIG).
       
         p Los SIG son herramientas que permiten la modelación, administración, visualización de las características del territorio y que generan salidas gráficas que son necesarias para poder planificar y diseñar el territorio, en este caso el sistema agroalimentario. El SIG es el instrumento fundamental para caracterizar el territorio y tomar decisiones en torno a su gestión.
     p.mb-5 <b>Para la generación del modelo de aptitud del territorio, la planeación y diseño agroecológico del sistema agroalimentario, es necesario realizar:</b>          

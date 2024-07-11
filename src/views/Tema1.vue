@@ -14,13 +14,13 @@
           p.m-0 Gracias a diversos movimientos sociales que impulsan esta nueva forma de producción, se han podido conformar alianzas que inciden en las políticas públicas de los países en ALC. Sin embargo, la implementación de las políticas que promueven la agroecología, así como los impactos que genera esta forma de producción depende del contexto político-institucional específico de cada país.
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img1.png', alt='En ALC y en Colombia, la agricultura se basa en: 1. El uso intensivo de agroinsumos sintéticos. 2. La alta demanda de mano de obra subcontratada asalariada. 3. La promoción de exportaciones. Ha sido durante mucho tiempo el único objeto de las políticas públicas. Este modelo ha sido practicado sin un marco legal fuerte, ha generado impactos negativos en el medio ambiente, en la equidad social y en la salud pública.')  
+          img.img-t.m-auto(src='@/assets/curso/tema1/img1.png', alt='Imagen decorativa')  
     .bg1.px-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-10.mb-5
           figure
-            img.d-none.d-lg-flex(src='@/assets/curso/tema1/img2.svg', alt='')
-            img.d-flex.d-lg-none(src='@/assets/curso/tema1/img5.svg', alt='')
+            img.d-none.d-lg-flex(src='@/assets/curso/tema1/img2.svg', alt='En ALC y en Colombia, la agricultura se basa en: 1. El uso intensivo de agroinsumos sintéticos. 2. La alta demanda de mano de obra subcontratada asalariada. 3. La promoción de exportaciones. Ha sido durante mucho tiempo el único objeto de las políticas públicas. Este modelo ha sido practicado sin un marco legal fuerte, ha generado impactos negativos en el medio ambiente, en la equidad social y en la salud pública.')
+            img.d-flex.d-lg-none(src='@/assets/curso/tema1/img5.svg', alt='En ALC y en Colombia, la agricultura se basa en: 1. El uso intensivo de agroinsumos sintéticos. 2. La alta demanda de mano de obra subcontratada asalariada. 3. La promoción de exportaciones. Ha sido durante mucho tiempo el único objeto de las políticas públicas. Este modelo ha sido practicado sin un marco legal fuerte, ha generado impactos negativos en el medio ambiente, en la equidad social y en la salud pública.')
     p.mb-5 Sin embargo, a partir de este modelo, es donde parten o nacen otras formas de producción como lo son la agroecología, la agricultura orgánica y la agricultura sostenible, cada una con un enfoque distintivo como se puede apreciar en la siguiente tabla.
     .bg2.pt-5.mb-4
       .row.justify-content-end.align-items-center

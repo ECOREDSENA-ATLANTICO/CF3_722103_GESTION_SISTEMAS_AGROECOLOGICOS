@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-4 Le damos la bienvenida al componente formativo “Diagnóstico del agroecosistema según metodología implementada”, en el siguiente video puede conocer aun más: 
+    p.mb-4 Le damos la bienvenida al componente formativo “Diagnóstico del agroecosistema según metodología implementada”, en el siguiente video puede conocer aún más: 
 
     figure
     .video
