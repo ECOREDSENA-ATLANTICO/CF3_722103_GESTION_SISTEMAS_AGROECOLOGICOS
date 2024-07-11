@@ -186,12 +186,12 @@
         p <b>La medición de la unidad agroecológica se puede realizar a través de la aplicación de metodologías topográficas como los levantamientos topográficos; en la siguiente infografía se muestra qué se logra:</b>
       .col-lg-2(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img15.svg', alt='1. Realizar mediciones de área. 2. Localizar y marcar los límites del agroecosistema. 3. Obtener información de la elevación. 4. Distancias y curvas de nivel que permitan proyección de los sistemas de riego y drenaje. 5. La orientación del agua para el sistema agroalimentario. 6. La orientación y replanteo de las plantaciones y la conservación del suelo, entre otras actividades.')
+          img.img-t.m-auto(src='@/assets/curso/tema2/img15.svg', alt='')
     .bg1
       .row.mb-5.py-5
         .col-12.col-lg-9
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema2/img16.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema2/img16.svg', alt='1. Realizar mediciones de área. 2. Localizar y marcar los límites del agroecosistema. 3. Obtener información de la elevación. 4. Distancias y curvas de nivel que permitan proyección de los sistemas de riego y drenaje. 5. La orientación del agua para el sistema agroalimentario. 6. La orientación y replanteo de las plantaciones y la conservación del suelo, entre otras actividades.')
         .col-12.col-lg-3
           .tarjeta-avatar
             img(src='@/assets/curso/tema2/img36.svg' alt='AvatarTop')

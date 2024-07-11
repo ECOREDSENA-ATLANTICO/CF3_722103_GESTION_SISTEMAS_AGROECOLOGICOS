@@ -180,39 +180,39 @@
                   p.pst_2 <b>Lidiando con los efectos</b> 
                 td(style="background-color: white")
                   ul.lista-ul--color
-                    li.mb-3
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Evitar la exposición al riesgo
-                    li.mb-3
+                      p Evitar la exposición al riesgo
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Diversificación e intercambio de cultivos
-                    li.mb-3
+                      p Diversificación e intercambio de cultivos
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Diversificación de parcelas
-                    li.mb-3
+                      p Diversificación de parcelas
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Diversificación de las fuentes de ingreso
-                    li.mb-3
+                      p Diversificación de las fuentes de ingreso
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Acumulación de reservas de existencias de cultivos o activos líquidos
-                    li.mb-3
+                      p Acumulación de reservas de existencias de cultivos o activos líquidos
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Adopción de técnicas avanzadas de cultivo (agroforestería, fertilización, irrigación, variedades resistentes)
-                    li.mb-3
+                      p Adopción de técnicas avanzadas de cultivo (agroforestería, fertilización, irrigación, variedades resistentes)
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Cultivo compartido
-                    li.mb-3
+                      p Cultivo compartido
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Mancomunicación informal de riesgos
-                    li.mb-3
+                      p Mancomunicación informal de riesgos
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Venta de activos
-                    li.mb-3
+                      p Venta de activos
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Reasignación de la fuerza de trabajo
-                    li.mb-3
+                      p Reasignación de la fuerza de trabajo
+                    li
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      | Ayuda mutua
+                      p Ayuda mutua
                 td(style="background-color: white")
                   ul.pst_3.lista-ul--color
                     li.mb-3
