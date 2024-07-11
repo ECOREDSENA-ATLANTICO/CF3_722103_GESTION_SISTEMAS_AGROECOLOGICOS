@@ -180,79 +180,79 @@
                   p.pst_2 <b>Lidiando con los efectos</b> 
                 td(style="background-color: white")
                   ul.lista-ul--color
-                    li
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Evitar la exposición al riesgo
-                    li
+                      | Evitar la exposición al riesgo
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Diversificación e intercambio de cultivos
-                    li
+                      | Diversificación e intercambio de cultivos
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Diversificación de parcelas
-                    li
+                      | Diversificación de parcelas
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Diversificación de las fuentes de ingreso
-                    li
+                      | Diversificación de las fuentes de ingreso
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Acumulación de reservas de existencias de cultivos o activos líquidos
-                    li
+                      | Acumulación de reservas de existencias de cultivos o activos líquidos
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Adopción de técnicas avanzadas de cultivo (agroforestería, fertilización, irrigación, variedades resistentes)
-                    li
+                      | Adopción de técnicas avanzadas de cultivo (agroforestería, fertilización, irrigación, variedades resistentes)
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Cultivo compartido
-                    li
+                      | Cultivo compartido
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Mancomunicación informal de riesgos
-                    li
+                      | Mancomunicación informal de riesgos
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Venta de activos
-                    li
+                      | Venta de activos
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Reasignación de la fuerza de trabajo
-                    li
+                      | Reasignación de la fuerza de trabajo
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Ayuda mutua
+                      | Ayuda mutua
                 td(style="background-color: white")
                   ul.pst_3.lista-ul--color
-                    li
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Comercialización por contrato
-                    li
+                      | Comercialización por contrato
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Contratos de futuros
-                    li
+                      | Contratos de futuros
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Seguros
-                    li
+                      | Seguros
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Créditos
+                      | Créditos
                 td(style="background-color: white")
                   ul.lista-ul--color
-                    li
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Extensión agrícola
-                    li
+                      | Extensión agrícola
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Sistemas de gestión de plagas
-                    li
+                      | Sistemas de gestión de plagas
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Infraestructura con medidas estructurales y no estructurales para la reducción de riesgos de desastres (caminos, presas, sistemas de irrigación).
-                    li
+                      | Infraestructura con medidas estructurales y no estructurales para la reducción de riesgos de desastres (caminos, presas, sistemas de irrigación).
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Sistema de información y alertas tempranas para pronósticos de corto, mediano y largo plazos
-                    li
+                      | Sistema de información y alertas tempranas para pronósticos de corto, mediano y largo plazos
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Programas de apoyo a microfinancieras facilitando el acceso al crédito, depósitos, garantías y seguros
-                    li
+                      | Programas de apoyo a microfinancieras facilitando el acceso al crédito, depósitos, garantías y seguros
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Asistencia social
-                    li
+                      | Asistencia social
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Fondos sociales
-                    li
+                      | Fondos sociales
+                    li.mb-3
                       <i class="fas fa-cog" style="color:#FFA686"></i>
-                      p Transferencias de efectivo
+                      | Transferencias de efectivo
     .row.align-items-center.mb-5
       .col-lg-2(data-aos="fade-left")
         figure
@@ -272,24 +272,24 @@
           .col-md-5.mb-4.mb-md-0
             h4 Agricultura
             ul.lista-ul--color
-              li
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Siembra de cultivos de ciclo corto
-              li
+                | Siembra de cultivos de ciclo corto
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Almacenamiento de semillas
-              li
+                | Almacenamiento de semillas
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Implementación de cultivos de hortalizas bajo riego
-              li
+                | Implementación de cultivos de hortalizas bajo riego
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Siembra de parcelas semilleras con las alcaldías
-              li
+                | Siembra de parcelas semilleras con las alcaldías
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Conservación de ramas de yuca
-              li
+                | Conservación de ramas de yuca
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Conservación de yuca fresca
+                | Conservación de yuca fresca
           .col-lg-5.mb-5
             figure
               img.img-t.m-auto(src='@/assets/curso/tema4/img19.png', alt='')
@@ -298,15 +298,15 @@
           .col-md-5.mb-4.mb-md-0
             h4 Ganadería
             ul.lista-ul--color
-              li
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Construcción de lomas de resguardo ganadero
-              li
+                | Construcción de lomas de resguardo ganadero
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Siembra de forrajes
-              li
+                | Siembra de forrajes
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Prevención y preparación del ganado
+                | Prevención y preparación del ganado
           .col-lg-5.mb-5
             figure
               img.img-t.m-auto(src='@/assets/curso/tema4/img20.png', alt='')   
@@ -315,15 +315,15 @@
           .col-md-5.mb-4.mb-md-0
             h4 Fortalecimiento de desarrollo de habilidades 
             ul.lista-ul--color
-              li
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Sistema de Alerta Temprana
-              li
+                | Sistema de Alerta Temprana
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Organización de Comités de Riesgo
-              li
+                | Organización de Comités de Riesgo
+              li.mb-3
                 <i class="fas fa-cog" style="color:#FFA686"></i>
-                p.m-0 Organización de Unidades de Gestión de Riesgo Comunal
+                | Organización de Unidades de Gestión de Riesgo Comunal
           .col-lg-5.mb-5
             figure
               img.img-t.m-auto(src='@/assets/curso/tema4/img21.png', alt='') 

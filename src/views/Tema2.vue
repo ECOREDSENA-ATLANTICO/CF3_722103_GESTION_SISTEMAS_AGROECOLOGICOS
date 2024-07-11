@@ -63,23 +63,23 @@
             img(src="@/assets/curso/tema2/img6.png"  alt='Texto que describa la imagen')
           .col-12.p-3.bgcontenido(style="height: 408.8px")
             h4 Técnicas
-              ul.lista-ul--color
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 <b>Físico:</b>
-                p.m-0.ms-4 Suelos.
-                p.m-0.ms-4 Uso propuesto del suelo.
-                p.m-0.ms-4 Conflicto de uso del suelo.
-                p.m-0.ms-4 Uso principal del suelo.
-                p.m-0.ms-4 Zonificación climática.
-                p.m-0.ms-4 Precipitación.
-                p.mb-3.ms-4 Temperatura.
-                
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 <b>Socioeconómico:</b>
-                p.m-0.ms-4 Clasificación de predios por área.
-                p.m-0.ms-4 Avalúos del territorio. 
+            ul.mt-3.lista-ul--color
+              li.m-0
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | <b>Físico:</b>
+              p.m-0.ms-4 Suelos.
+              p.m-0.ms-4 Uso propuesto del suelo.
+              p.m-0.ms-4 Conflicto de uso del suelo.
+              p.m-0.ms-4 Uso principal del suelo.
+              p.m-0.ms-4 Zonificación climática.
+              p.m-0.ms-4 Precipitación.
+              p.mb-3.ms-4 Temperatura.
+              
+              li.m-0
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | <b>Socioeconómico:</b>
+              p.m-0.ms-4 Clasificación de predios por área.
+              p.m-0.ms-4 Avalúos del territorio. 
 
       .col-md-4.mb-3.mb-lg-0.bgt02
         .row
@@ -89,25 +89,25 @@
             img(src="@/assets/curso/tema2/img7.png"  alt='Texto que describa la imagen')
           .col-12.p-3.bgcontenido(style="height: 408.8px")
             h4 Legales
-              ul.lista-ul--color
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 Páramos.
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 Reserva de la sociedad civil.
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 Reserva forestal protectora nacional y regional.
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 Frontera agrícola.
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 Proyectos ANLA.
-                li.m-0
-                  <i class="fas fa-cog" style="color:#FFA686"></i>
-                  p.m-0 Zonificación para plantaciones forestales con fines comerciales.
+            ul.mt-3.lista-ul--color
+              li.m-3
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | Páramos.
+              li.m-3
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | Reserva de la sociedad civil.
+              li.m-3
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | Reserva forestal protectora nacional y regional.
+              li.m-3
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | Frontera agrícola.
+              li.m-3
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | Proyectos ANLA.
+              li.m-3
+                <i class="fas fa-cog" style="color:#FFA686"></i>
+                | Zonificación para plantaciones forestales con fines comerciales.
 
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
